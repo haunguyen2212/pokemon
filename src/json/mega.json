@@ -193,5 +193,60 @@
         "id" : 39,
         "name" : "Mega Latias",
         "img" : "Mega_Latias.png"
+    },
+    {
+        "id" : 40,
+        "name" : "Mega Latios",
+        "img" : "Mega_Latios.png"
+    },
+    {
+        "id" : 41,
+        "name" : "Mega Rayquaza",
+        "img" : "Mega_Rayquaza.png"
+    },
+    {
+        "id" : 42,
+        "name" : "Groudon Nguyên Thủy",
+        "img" : "Mega_Groudon.png"
+    },
+    {
+        "id" : 43,
+        "name" : "Kyogre Nguyên Thủy",
+        "img" : "Mega_Kyogre.png"
+    },
+    {
+        "id" : 44,
+        "name" : "Mega Mimilop",
+        "img" : "Mega_Mimilop.png"
+    },
+    {
+        "id" : 45,
+        "name" : "Mega Graburias",
+        "img" : "Mega_Graburias.png"
+    },
+    {
+        "id" : 46,
+        "name" : "Mega Lucario",
+        "img" : "Mega_Lucario.png"
+    },
+    {
+        "id" : 47,
+        "name" : "Mega Yukinooh",
+        "img" : "Mega_Yukinooh.png"
+    },
+    {
+        "id" : 48,
+        "name" : "Mega Erureido",
+        "img" : "Mega_Erureido.png"
+    },
+    {
+        "id" : 49,
+        "name" : "Mega Tabunne",
+        "img" : "Mega_Tabunne.png"
+    },
+    {
+        "id" : 50,
+        "name" : "Mega Diancie",
+        "img" : "Mega_Diancie.png"
     }
 ]

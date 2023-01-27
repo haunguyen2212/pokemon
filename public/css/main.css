@@ -15,3 +15,30 @@ a{
 .hidden{
     display: none;
 }
+
+.text-neon-info{
+    color: #fff;
+    text-shadow: 0 0 5px #00b3ff,
+                0 0 20px #00b3ff,
+                0 0 60px #00b3ff,
+                0 0 150px #00b3ff;
+}
+
+.btn-neon-yellow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    outline: none;
+    background-color: #ce9f11;
+    color: #fff;
+}
+
+.btn-neon-yellow:hover{
+    cursor: pointer;
+    background-color: #ffc000;
+    box-shadow: 0 0 5px #ffc000,
+                0 0 20px #ffc000,
+                0 0 60px #ffc000,
+                0 0 150px #ffc000;
+}

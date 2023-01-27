@@ -10,7 +10,7 @@ function Banner(){
     useEffect(() => {
         const intervalId = setInterval(() => {
             setCurrentPokemon(Mega[Math.floor(Math.random() * Mega.length)]);
-        }, 1000);     
+        }, 5000);     
         return () => clearInterval(intervalId);
     }, [currentPokemon]);
 
@@ -21,13 +21,12 @@ function Banner(){
                     <img src={ imgURL + currentPokemon.img} alt="a"/>
                 </div>
                 <div className="banner__content">
-                    <span className="banner__title">Mega Eᴠolution</span>
+                    <span className="banner__title text-neon-info">Mega Evolution</span>
                     <p className="banner__text">
-                    Mega Eᴠolution là một khái niệm đượᴄ giới thiệu trong Thế hệ VI. Nó bao gồm một ѕố Pokemon nhất định đạt đượᴄ hình thứᴄ tối thượng ᴄủa ᴄhúng. Cáᴄ Pokemon ᴄần Mega Stone đặᴄ biệt để tiến hóa thành dạng ᴄuối ᴄùng ᴄho ᴄáᴄ họ tiến hóa một nhánh / tiến hóa ᴠà dạng ᴄuối ᴄùng ᴄho ᴄáᴄ họ tiến hóa hai. Ngoài ra, Pokemon ᴄhỉ ᴄó thể đạt đượᴄ hình dạng tối thượng ᴄủa ᴄhúng bằng ᴄáᴄh ѕử dụng Mega Stone duу nhất ᴄho loài ᴄủa ᴄhúng.
+                    Mega Evolution là một khái niệm đượᴄ giới thiệu trong Thế hệ VI. Nó bao gồm một ѕố Pokemon nhất định đạt đượᴄ hình thức tối thượng của chúng. Các Pokemon cần Mega Stone đặc biệt để tiến hóa thành dạng cuối cùng ᴄho ᴄáᴄ họ tiến hóa một nhánh / tiến hóa ᴠà dạng cuối cùng cho các họ tiến hóa hai. Ngoài ra, Pokemon chỉ có thể đạt được hình dạng tối thượng của chúng bằng cách ѕử dụng Mega Stone duy nhất cho loài của chúng.
                     </p>
                     <div className="banner__btn">
-                        <a className="banner__btn--dark" href="/home">More</a>
-                        <a className="banner__btn--light" href="/home">See more</a>
+                        <a className="banner__btn--neon btn-neon-yellow" href="/home">Xem chi tiết</a>
                     </div>
                 </div>
             </div>
