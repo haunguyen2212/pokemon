@@ -1,0 +1,58 @@
+[
+    {
+        "id" : 1,
+        "name" : "Mega Fushigibana",
+        "img" : "Mega_Fushigibana.png"
+    },
+    {
+        "id" : 2,
+        "name" : "Mega Lizardon X",
+        "img" : "Mega_Lizardon_X.png"
+    },
+    {
+        "id" : 3,
+        "name" :"Mega Lizardon Y",
+        "img" : "Mega_Lizardon_Y.png"
+    },
+    {
+        "id" : 4,
+        "name" : "Mega Kamex",
+        "img" : "Mega_Kamex.png"
+    },
+    {
+        "id" : 5,
+        "name" : "Mega Spear",
+        "img" : "Mega_Spear.png"
+    },
+    {
+        "id" : 6,
+        "name" : "Mega Pigeot",
+        "img" : "Mega_Pigeot.png"
+    },
+    {
+        "id" : 7,
+        "name" : "Mega Foodin",
+        "img" : "Mega_Foodin.png"
+    },
+    {
+        "id" : 8,
+        "name" : "Mega Yadoran",
+        "img" : "Mega_Yadoran.png"
+    },
+    {
+        "id" : 9,
+        "name" : "Mega Gangar",
+        "img" : "Mega_Gangar.png"
+    },
+    {
+        "id" : 10,
+        "name" : "Mega Garura",
+        "img" : "Mega_Garura.png"
+    },
+    {
+        "id" : 11,
+        "name" : "Mega Kailios",
+        "img" : "Mega_Kailios.png"
+    }
+    
+]

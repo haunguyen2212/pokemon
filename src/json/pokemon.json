@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Fushigidane",
+        "image": "0001_Fushigidane.png" 
+    },
+    {
+        "id": 2,
+        "name": "Fushigisou",
+        "image": "0002_Fushigisou.png" 
+    },
+    {
+        "id": 3,
+        "name": "Fushigibana",
+        "image": "0003_Fushigibana.png" 
+    }
+]
