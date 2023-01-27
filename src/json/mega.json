@@ -53,6 +53,145 @@
         "id" : 11,
         "name" : "Mega Kailios",
         "img" : "Mega_Kailios.png"
+    },
+    {
+        "id" : 12,
+        "name" : "Mega Gyarados",
+        "img" : "Mega_Gyarados.png"
+    },
+    {
+        "id" : 13,
+        "name" : "Mega Ptera",
+        "img" : "Mega_Ptera.png"
+    },
+    {
+        "id" : 14,
+        "name" : "Mega Mewtwo X",
+        "img" : "Mega_Mewtwo_X.png"
+    },
+    {
+        "id" : 15,
+        "name" : "Mega Mewtwo Y",
+        "img" : "Mega_Mewtwo_Y.png"
+    },
+    {
+        "id" : 16,
+        "name" : "Mega Denryu",
+        "img" : "Mega_Denryu.png"
+    },
+    {
+        "id" : 17,
+        "name" : "Mega Haganeil",
+        "img" : "Mega_Haganeil.png"
+    },
+    {
+        "id" : 18,
+        "name" : "Mega Hassam",
+        "img" : "Mega_Hassam.png"
+    },
+    {
+        "id" : 19,
+        "name" : "Mega Heracros",
+        "img" : "Mega_Heracros.png"
+    },
+    {
+        "id" : 20,
+        "name" : "Mega Hellgar",
+        "img" : "Mega_Hellgar.png"
+    },
+    {
+        "id" : 21,
+        "name" : "Mega Bangiras",
+        "img" : "Mega_Bangiras.png"
+    },
+    {
+        "id" : 22,
+        "name" : "Mega Jukain",
+        "img" : "Mega_Jukain.png"
+    },
+    {
+        "id" : 23,
+        "name" : "Mega Bursyamo",
+        "img" : "Mega_Bursyamo.png"
+    },
+    {
+        "id" : 24,
+        "name" : "Mega Laglarge",
+        "img" : "Mega_Laglarge.png"
+    },
+    {
+        "id" : 25,
+        "name" : "Mega Sirnight",
+        "img" : "Mega_Sirnight.png"
+    },
+    {
+        "id" : 26,
+        "name" : "Mega Yamirami",
+        "img" : "Mega_Yamirami.png"
+    },
+    {
+        "id" : 27,
+        "name" : "Mega Kucheat",
+        "img" : "Mega_Kucheat.png"
+    },
+    {
+        "id" : 28,
+        "name" : "Mega Bossgodora",
+        "img" : "Mega_Bossgodora.png"
+    },
+    {
+        "id" : 29,
+        "name" : "Mega Charem",
+        "img" : "Mega_Charem.png"
+    },
+    {
+        "id" : 30,
+        "name" : "Mega Livolt",
+        "img" : "Mega_Livolt.png"
+    },
+    {
+        "id" : 31,
+        "name" : "Mega Sameheder",
+        "img" : "Mega_Sameheder.png"
+    },
+    {
+        "id" : 32,
+        "name" : "Mega Bakuuda",
+        "img" : "Mega_Bakuuda.png"
+    },
+    {
+        "id" : 33,
+        "name" : "Mega Tyltalis",
+        "img" : "Mega_Tyltalis.png"
+    },
+    {
+        "id" : 34,
+        "name" : "Mega Juppeta",
+        "img" : "Mega_Juppeta.png"
+    },
+    {
+        "id" : 35,
+        "name" : "Mega Absol",
+        "img" : "Mega_Absol.png"
+    },
+    {
+        "id" : 36,
+        "name" : "Mega Onigohri",
+        "img" : "Mega_Onigohri.png"
+    },
+    {
+        "id" : 37,
+        "name" : "Mega Bohmander",
+        "img" : "Mega_Bohmander.png"
+    },
+    {
+        "id" : 38,
+        "name" : "Mega Metagross",
+        "img" : "Mega_Metagross.png"
+    },
+    {
+        "id" : 39,
+        "name" : "Mega Latias",
+        "img" : "Mega_Latias.png"
     }
-    
 ]
