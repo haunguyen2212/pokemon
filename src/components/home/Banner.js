@@ -1,6 +1,5 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import { useState, useEffect } from "react";
-import Mega from '../json/mega.json';
+import Mega from '../../json/mega.json';
 
 function Banner(){
     const imgURL = process.env.PUBLIC_URL + '/pokemon/';

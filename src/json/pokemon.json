@@ -2,16 +2,121 @@
     {
         "id": 1,
         "name": "Fushigidane",
-        "image": "0001_Fushigidane.png" 
+        "image": "0001_Fushigidane.png",
+        "type": "grass" 
     },
     {
         "id": 2,
         "name": "Fushigisou",
-        "image": "0002_Fushigisou.png" 
+        "image": "0002_Fushigisou.png",
+        "type": "grass" 
     },
     {
         "id": 3,
         "name": "Fushigibana",
-        "image": "0003_Fushigibana.png" 
+        "image": "0003_Fushigibana.png",
+        "type": "grass" 
+    },
+    {
+        "id": 4,
+        "name": "Hitokage",
+        "image": "0004_Hitokage.png",
+        "type": "fire" 
+    },
+    {
+        "id": 5,
+        "name": "Lizardo",
+        "image": "0005_Lizardo.png",
+        "type": "fire" 
+    },
+    {
+        "id": 6,
+        "name": "Lizardon",
+        "image": "0006_Lizardon.png",
+        "type": "fire" 
+    }, 
+    {
+        "id": 7,
+        "name": "Zenigame",
+        "image": "0007_Zenigame.png",
+        "type": "water"  
+    },
+    {
+        "id": 8,
+        "name": "Kameil",
+        "image": "0008_Kameil.png",
+        "type": "water"  
+    },
+    {
+        "id": 9,
+        "name": "Kamex",
+        "image": "0009_Kamex.png",
+        "type": "water"  
+    },
+    {
+        "id": 10,
+        "name": "Caterpie",
+        "image": "0010_Caterpie.png",
+        "type": "insects"  
+    },
+    {
+        "id": 11,
+        "name": "Transell",
+        "image": "0011_Transell.png",
+        "type": "insects"  
+    },
+    {
+        "id": 12,
+        "name": "Butterfree",
+        "image": "0012_Butterfree.png",
+        "type": "insects"  
+    },
+    {
+        "id": 13,
+        "name": "Beedle",
+        "image": "0013_Beedle.png",
+        "type": "insects"  
+    },
+    {
+        "id": 14,
+        "name": "Cocoon",
+        "image": "0014_Cocoon.png",
+        "type": "insects"  
+    },
+    {
+        "id": 15,
+        "name": "Spear",
+        "image": "0015_Spear.png",
+        "type": "insects"  
+    },
+    {
+        "id": 16,
+        "name": "Poppo",
+        "image": "0016_Poppo.png",
+        "type": "normal"  
+    },
+    {
+        "id": 17,
+        "name": "Pigeon",
+        "image": "0017_Pigeon.png",
+        "type": "normal"  
+    },
+    {
+        "id": 18,
+        "name": "Pigeot",
+        "image": "0018_Pigeot.png",
+        "type": "normal"  
+    },
+    {
+        "id": 19,
+        "name": "Koratta",
+        "image": "0019_Koratta.png",
+        "type": "normal"  
+    },
+    {
+        "id": 20,
+        "name": "Ratta",
+        "image": "0020_Ratta.png",
+        "type": "normal"  
     }
 ]

@@ -64,7 +64,6 @@
     margin-top: 60px;
     width: 100%;
     height: 50vh;
-    border-bottom: 10px #fff solid;
 }
 
 .banner__container{
@@ -118,6 +117,119 @@
     width: 140px;
     font-size: 15px;
     border-radius: 20px;
+}
+
+.pokemon-list{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 10%;
+}
+
+.pokemon-box{
+    width: calc(20% - 10px);
+    margin: 5px;
+    position: relative;
+}
+
+.pokemon-box::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.pokemon-box::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    filter: blur(30px);
+}
+
+.pokemon-box--grass::before,
+.pokemon-box--grass::after{
+    background: linear-gradient(45deg, #92bf19, #00d0ff);
+}
+
+.pokemon-box--fire::before,
+.pokemon-box--fire::after{
+    background: linear-gradient(45deg, #ff3700, #ffc371);
+}
+
+.pokemon-box--water::before,
+.pokemon-box--water::after{
+    background: linear-gradient(45deg, #0094e5, #00d0ff);
+}
+
+.pokemon-box--insects::before,
+.pokemon-box--insects::after{
+    background: linear-gradient(45deg, #32b432, #38ef7d);
+}
+
+.pokemon-box--normal::before,
+.pokemon-box--normal::after{
+    background: linear-gradient(45deg, #a0a0a0, #dcdcdc);
+}
+
+.pokemon-box span{
+    position: absolute;
+    top: 5px;
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: 2;
+}
+
+.pokemon-box span::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.1);
+    pointer-events: none;
+}
+
+.pokemon-box__content{
+    position: relative;
+    z-index: 3;
+    width: calc(100% - 20px);
+    height: 100%;
+    padding: 10px;
+}
+
+.pokemon-box__link{
+    color: #fff;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pokemon-box__image{
+    width: 150px;
+    margin: 0 auto;
+}
+
+.pokemon-box__name{
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.pokemon-box__description{
+    width: 100%;
+    margin-top: 5px;
+    font-size: 14px;
 }
 
 @media  screen and (max-width: 768px) {
@@ -204,5 +316,16 @@
         width: 80px;
         font-size: 12px;
         border-radius: 15px;
+    }
+
+    .pokemon-list{
+        width: 90%;
+        margin: 0 5%;
+    }
+
+    .pokemon-box{
+        display: flex;
+        width: calc(50% - 10px);
+        margin: 5px;
     }
 }
