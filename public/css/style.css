@@ -158,12 +158,17 @@
 
 .pokemon-box--fire::before,
 .pokemon-box--fire::after{
-    background: linear-gradient(45deg, #ff3700, #ffc371);
+    background: linear-gradient(45deg, #ff3700, #ff6900);
 }
 
 .pokemon-box--water::before,
 .pokemon-box--water::after{
     background: linear-gradient(45deg, #0094e5, #00d0ff);
+}
+
+.pokemon-box--spirit::before,
+.pokemon-box--spirit::after{
+    background: linear-gradient(45deg, #dc78c8, #f08cdc);
 }
 
 .pokemon-box--insects::before,
@@ -174,6 +179,36 @@
 .pokemon-box--normal::before,
 .pokemon-box--normal::after{
     background: linear-gradient(45deg, #a0a0a0, #dcdcdc);
+}
+
+.pokemon-box--poison::before,
+.pokemon-box--poison::after{
+    background: linear-gradient(45deg, #be78be, #DA22FF);
+}
+
+.pokemon-box--electrical::before,
+.pokemon-box--electrical::after{
+    background: linear-gradient(45deg, #ffe100, #fffc00);
+}
+
+.pokemon-box--land::before,
+.pokemon-box--land::after{
+    background: linear-gradient(45deg, #cca142, #fac85a);
+}
+
+.pokemon-box--fairy::before,
+.pokemon-box--fairy::after{
+    background: linear-gradient(45deg, #ff7eb8, #ffafdc);
+}
+
+.pokemon-box--gladiator::before,
+.pokemon-box--gladiator::after{
+    background: linear-gradient(45deg, #c85500, #dc6900);
+}
+
+.pokemon-box--stone::before,
+.pokemon-box--stone::after{
+    background: linear-gradient(45deg, #a07850, #b48c64);
 }
 
 .pokemon-box span{
