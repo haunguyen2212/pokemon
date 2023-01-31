@@ -3,546 +3,1280 @@
         "id": 1,
         "name": "Fushigidane",
         "image": "0001_Fushigidane.png",
-        "type": "grass" 
+        "type": "grass",
+        "secondType": "poison",
+        "introduce" : null
     },
     {
         "id": 2,
         "name": "Fushigisou",
         "image": "0002_Fushigisou.png",
-        "type": "grass" 
+        "type": "grass",
+        "secondType": "poison",
+        "introduce" : null 
     },
     {
         "id": 3,
         "name": "Fushigibana",
         "image": "0003_Fushigibana.png",
-        "type": "grass" 
+        "type": "grass",
+        "secondType": "poison",
+        "introduce" : null 
     },
     {
         "id": 4,
         "name": "Hitokage",
         "image": "0004_Hitokage.png",
-        "type": "fire" 
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null 
     },
     {
         "id": 5,
         "name": "Lizardo",
         "image": "0005_Lizardo.png",
-        "type": "fire" 
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null 
     },
     {
         "id": 6,
         "name": "Lizardon",
         "image": "0006_Lizardon.png",
-        "type": "fire" 
+        "type": "fire",
+        "secondType": "flying",
+        "introduce" : null 
     }, 
     {
         "id": 7,
         "name": "Zenigame",
         "image": "0007_Zenigame.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 8,
         "name": "Kameil",
         "image": "0008_Kameil.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 9,
         "name": "Kamex",
         "image": "0009_Kamex.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 10,
         "name": "Caterpie",
         "image": "0010_Caterpie.png",
-        "type": "insects"  
+        "type": "bug",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 11,
         "name": "Transell",
         "image": "0011_Transell.png",
-        "type": "insects"  
+        "type": "bug",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 12,
         "name": "Butterfree",
         "image": "0012_Butterfree.png",
-        "type": "insects"  
+        "type": "bug",
+        "secondType": "flying",
+        "introduce" : null  
     },
     {
         "id": 13,
         "name": "Beedle",
         "image": "0013_Beedle.png",
-        "type": "insects"  
+        "type": "bug",
+        "secondType": "poison",
+        "introduce" : null  
     },
     {
         "id": 14,
         "name": "Cocoon",
         "image": "0014_Cocoon.png",
-        "type": "insects"  
+        "type": "bug",
+        "secondType": "poison",
+        "introduce" : null   
     },
     {
         "id": 15,
         "name": "Spear",
         "image": "0015_Spear.png",
-        "type": "insects"  
+        "type": "bug",
+        "secondType": "poison",
+        "introduce" : null   
     },
     {
         "id": 16,
         "name": "Poppo",
         "image": "0016_Poppo.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null   
     },
     {
         "id": 17,
         "name": "Pigeon",
         "image": "0017_Pigeon.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null  
     },
     {
         "id": 18,
         "name": "Pigeot",
         "image": "0018_Pigeot.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null  
     },
     {
         "id": 19,
         "name": "Koratta",
         "image": "0019_Koratta.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 20,
         "name": "Ratta",
         "image": "0020_Ratta.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 21,
         "name": "Onisuzume",
         "image": "0021_Onisuzume.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null  
     },
     {
         "id": 22,
         "name": "Onidrill",
         "image": "0022_Onidrill.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null  
     },
     {
         "id": 23,
         "name": "Arbo",
         "image": "0023_Arbo.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 24,
         "name": "Arbok",
         "image": "0024_Arbok.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 25,
         "name": "Pikachu",
         "image": "0025_Pikachu.png",
-        "type": "electrical"  
+        "type": "electric",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 26,
         "name": "Raichu",
         "image": "0026_Raichu.png",
-        "type": "electrical"  
+        "type": "electric",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 27,
         "name": "Sand",
         "image": "0027_Sand.png",
-        "type": "land"  
+        "type": "ground",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 28,
         "name": "Sandpan",
         "image": "0028_Sandpan.png",
-        "type": "land"  
+        "type": "ground",
+        "secondType": null,
+        "introduce" : null  
     },      
     {
         "id": 29,
         "name": "Nidoran",
         "image": "0029_Nidoran.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": null,
+        "introduce" : null 
     },
     {
         "id": 30,
         "name": "Nidorina",
         "image": "0030_Nidorina.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 31,
         "name": "Nidoqueen",
         "image": "0031_Nidoqueen.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": "ground",
+        "introduce" : null  
     },
     {
         "id": 32,
         "name": "Nidoran",
         "image": "0032_Nidoran.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 33,
         "name": "Nidorino",
         "image": "0033_Nidorino.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 34,
         "name": "Nidoking",
         "image": "0034_Nidoking.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": "ground",
+        "introduce" : null  
     },
     {
         "id": 35,
         "name": "Pippi",
         "image": "0035_Pippi.png",
-        "type": "fairy"  
+        "type": "fairy",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 36,
         "name": "Pixy",
         "image": "0036_Pixy.png",
-        "type": "fairy"  
+        "type": "fairy",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 37,
         "name": "Rokon",
         "image": "0037_Rokon.png",
-        "type": "fire"  
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 38,
         "name": "Kyukon",
         "image": "0038_Kyukon.png",
-        "type": "fire"  
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 39,
         "name": "Purin",
         "image": "0039_Purin.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": "fairy",
+        "introduce" : null  
     },
     {
         "id": 40,
         "name": "Pukurin",
         "image": "0040_Pukurin.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": "fairy",
+        "introduce" : null  
     },
     {
         "id": 41,
         "name": "Zubat",
         "image": "0041_Zubat.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": "flying",
+        "introduce" : null  
     },
     {
         "id": 42,
         "name": "Golbat",
         "image": "0042_Golbat.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": "flying",
+        "introduce" : null  
     },
     {
         "id": 43,
         "name": "Nazonokusa",
         "image": "0043_Nazonokusa.png",
-        "type": "grass"  
+        "type": "grass",
+        "secondType": "poison",
+        "introduce" : null  
     },
     {
         "id": 44,
         "name": "Kusaihana",
         "image": "0044_Kusaihana.png",
-        "type": "grass"  
+        "type": "grass",
+        "secondType": "poison",
+        "introduce" : null  
     },
     {
         "id": 45,
         "name": "Ruffresia",
         "image": "0045_Ruffresia.png",
-        "type": "grass"  
+        "type": "grass",
+        "secondType": "poison",
+        "introduce" : null  
     },
     {
         "id": 46,
         "name": "Paras",
         "image": "0046_Paras.png",
-        "type": "insects"  
+        "type": "bug",
+        "secondType": "grass",
+        "introduce" : null  
     },
     {
         "id": 47,
         "name": "Parasect",
         "image": "0047_Parasect.png",
-        "type": "insects"  
+        "type": "bug",
+        "secondType": "grass",
+        "introduce" : null  
     },
     {
         "id": 48,
         "name": "Kongpang",
         "image": "0048_Kongpang.png",
-        "type": "insects"  
+        "type": "bug",
+        "secondType": "poison",
+        "introduce" : null 
     },
     {
         "id": 49,
         "name": "Morphon",
         "image": "0049_Morphon.png",
-        "type": "insects"  
+        "type": "bug",
+        "secondType": "poison",
+        "introduce" : null  
     },
     {
         "id": 50,
         "name": "Digda",
         "image": "0050_Digda.png",
-        "type": "land"  
+        "type": "ground",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 51,
         "name": "Dugtrio",
         "image": "0051_Dugtrio.png",
-        "type": "land"  
+        "type": "ground",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 52,
         "name": "Nyasu",
         "image": "0052_Nyasu.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 53,
         "name": "Persian",
         "image": "0053_Persian.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 54,
         "name": "Koduck",
         "image": "0054_Koduck.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 55,
         "name": "Golduck",
         "image": "0055_Golduck.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 56,
         "name": "Mankey",
         "image": "0056_Mankey.png",
-        "type": "gladiator"  
+        "type": "fighting",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 57,
         "name": "Okorizaru",
         "image": "0057_Okorizaru.png",
-        "type": "gladiator"  
+        "type": "fighting",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 58,
         "name": "Gardie",
         "image": "0058_Gardie.png",
-        "type": "fire"  
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 59,
         "name": "Windie",
         "image": "0059_Windie.png",
-        "type": "fire"  
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 60,
         "name": "Nyoromo",
         "image": "0060_Nyoromo.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 61,
         "name": "Nyorozo",
         "image": "0061_Nyorozo.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 62,
         "name": "Nyorobon",
         "image": "0062_Nyorobon.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": "fighting",
+        "introduce" : null  
     },
     {
         "id": 63,
         "name": "Casey",
         "image": "0063_Casey.png",
-        "type": "spirit"  
+        "type": "psychic",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 64,
         "name": "Yungerer",
         "image": "0064_Yungerer.png",
-        "type": "spirit"  
+        "type": "psychic",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 65,
         "name": "Foodin",
         "image": "0065_Foodin.png",
-        "type": "spirit"  
+        "type": "psychic",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 66,
         "name": "Wanriky",
         "image": "0066_Wanriky.png",
-        "type": "gladiator"  
+        "type": "fighting",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 67,
         "name": "Goriky",
         "image": "0067_Goriky.png",
-        "type": "gladiator"  
+        "type": "fighting",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 68,
         "name": "Kairiky",
         "image": "0068_Kairiky.png",
-        "type": "gladiator"  
+        "type": "fighting",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 69,
         "name": "Madatsubomi",
         "image": "0069_Madatsubomi.png",
-        "type": "grass"  
+        "type": "grass",
+        "secondType": "poison",
+        "introduce" : null  
     },
     {
         "id": 70,
         "name": "Utsudon",
         "image": "0070_Utsudon.png",
-        "type": "grass"  
+        "type": "grass",
+        "secondType": "poison",
+        "introduce" : null  
     },
     {
         "id": 71,
         "name": "Utsubot",
         "image": "0071_Utsubot.png",
-        "type": "grass"  
+        "type": "grass",
+        "secondType": "poison",
+        "introduce" : null  
     },
     {
         "id": 72,
         "name": "Menokurage",
         "image": "0072_Menokurage.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": "poison",
+        "introduce" : null  
     },
     {
         "id": 73,
         "name": "Dokukurage",
         "image": "0073_Dokukurage.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": "poison",
+        "introduce" : null  
     },
     {
         "id": 74,
         "name": "Isitsubute",
         "image": "0074_Isitsubute.png",
-        "type": "stone"  
+        "type": "rock",
+        "secondType": "ground",
+        "introduce" : null  
     },
     {
         "id": 75,
         "name": "Golone",
         "image": "0075_Golone.png",
-        "type": "stone"  
+        "type": "rock",
+        "secondType": "ground",
+        "introduce" : null  
     },
     {
         "id": 76,
         "name": "Golonya",
         "image": "0076_Golonya.png",
-        "type": "stone"  
+        "type": "rock",
+        "secondType": "ground",
+        "introduce" : null  
     },
     {
         "id": 77,
         "name": "Ponyta",
         "image": "0077_Ponyta.png",
-        "type": "fire"  
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 78,
         "name": "Gallop",
         "image": "0078_Gallop.png",
-        "type": "fire"  
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 79,
         "name": "Yadon",
         "image": "0079_Yadon.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": "psychic",
+        "introduce" : null  
     },
     {
         "id": 80,
         "name": "Yadoran",
         "image": "0080_Yadoran.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": "psychic",
+        "introduce" : null  
     },
     {
         "id": 81,
         "name": "Coil",
         "image": "0081_Coil.png",
-        "type": "electrical"  
+        "type": "electric",
+        "secondType": "steel",
+        "introduce" : null  
     },
     {
         "id": 82,
         "name": "Rarecoil",
         "image": "0082_Rarecoil.png",
-        "type": "electrical"  
+        "type": "electric",
+        "secondType": "steel",
+        "introduce" : null  
     },
     {
         "id": 83,
         "name": "Kamonegi",
         "image": "0083_Kamonegi.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null  
     },
     {
         "id": 84,
         "name": "Dodo",
         "image": "0084_Dodo.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null  
     },
     {
         "id": 85,
         "name": "Dodorio",
         "image": "0085_Dodorio.png",
-        "type": "normal"  
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null  
     },
     {
         "id": 86,
         "name": "Pawou",
         "image": "0086_Pawou.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 87,
         "name": "Jugon",
         "image": "0087_Jugon.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": "ice",
+        "introduce" : null  
     },
     {
         "id": 88,
         "name": "Betbeter",
         "image": "0088_Betbeter.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 89,
         "name": "Betbeton",
         "image": "0089_Betbeton.png",
-        "type": "poison"  
+        "type": "poison",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 90,
         "name": "Shellder",
         "image": "0090_Shellder.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
     },
     {
         "id": 91,
         "name": "Parshen",
         "image": "0091_Parshen.png",
-        "type": "water"  
+        "type": "water",
+        "secondType": "ice",
+        "introduce" : null  
+    },
+    {
+        "id": 92,
+        "name": "Ghos",
+        "image": "0092_Ghos.png",
+        "type": "ghost",
+        "secondType": "poison",
+        "introduce" : null  
+    },
+    {
+        "id": 93,
+        "name": "Ghost",
+        "image": "0093_Ghost.png",
+        "type": "ghost",
+        "secondType": "poison",
+        "introduce" : null  
+    },
+    {
+        "id": 94,
+        "name": "Gangar",
+        "image": "0094_Gangar.png",
+        "type": "ghost",
+        "secondType": "poison",
+        "introduce" : null  
+    },
+    {
+        "id": 95,
+        "name": "Iwark",
+        "image": "0095_Iwark.png",
+        "type": "rock",
+        "secondType": "ground",
+        "introduce" : null  
+    },
+    {
+        "id": 96,
+        "name": "Sleepe",
+        "image": "0096_Sleepe.png",
+        "type": "psychic",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 97,
+        "name": "Sleeper",
+        "image": "0097_Sleeper.png",
+        "type": "psychic",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 98,
+        "name": "Crab",
+        "image": "0098_Crab.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 99,
+        "name": "Kingler",
+        "image": "0099_Kingler.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 100,
+        "name": "Biriridama",
+        "image": "0100_Biriridama.png",
+        "type": "electric",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 101,
+        "name": "Marumine",
+        "image": "0101_Marumine.png",
+        "type": "electric",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 102,
+        "name": "Tamatama",
+        "image": "0102_Tamatama.png",
+        "type": "grass",
+        "secondType": "psychic",
+        "introduce" : null  
+    },
+    {
+        "id": 103,
+        "name": "Nassy",
+        "image": "0103_Nassy.png",
+        "type": "grass",
+        "secondType": "psychic",
+        "introduce" : null  
+    },
+    {
+        "id": 104,
+        "name": "Karakara",
+        "image": "0104_Karakara.png",
+        "type": "ground",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 105,
+        "name": "Garagara",
+        "image": "0105_Garagara.png",
+        "type": "ground",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 106,
+        "name": "Sawamular",
+        "image": "0106_Sawamular.png",
+        "type": "fighting",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 107,
+        "name": "Ebiwalar",
+        "image": "0107_Ebiwalar.png",
+        "type": "fighting",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 108,
+        "name": "Beroringa",
+        "image": "0108_Beroringa.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 109,
+        "name": "Dogars",
+        "image": "0109_Dogars.png",
+        "type": "poison",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 110,
+        "name": "Matadogas",
+        "image": "0110_Matadogas.png",
+        "type": "poison",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 111,
+        "name": "Sihorn",
+        "image": "0111_Sihorn.png",
+        "type": "ground",
+        "secondType": "rock",
+        "introduce" : null  
+    },
+    {
+        "id": 112,
+        "name": "Sidon",
+        "image": "0112_Sidon.png",
+        "type": "ground",
+        "secondType": "rock",
+        "introduce" : null  
+    },
+    {
+        "id": 113,
+        "name": "Lucky",
+        "image": "0113_Lucky.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 114,
+        "name": "Monjara",
+        "image": "0114_Monjara.png",
+        "type": "grass",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 115,
+        "name": "Garura",
+        "image": "0115_Garura.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 116,
+        "name": "Tattu",
+        "image": "0116_Tattu.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 117,
+        "name": "Seadra",
+        "image": "0117_Seadra.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 118,
+        "name": "Tosakinto",
+        "image": "0118_Tosakinto.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 119,
+        "name": "Azumao",
+        "image": "0119_Azumao.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 120,
+        "name": "Hitodeman",
+        "image": "0120_Hitodeman.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 121,
+        "name": "Starmie",
+        "image": "0121_Starmie.png",
+        "type": "water",
+        "secondType": "psychic",
+        "introduce" : null  
+    },
+    {
+        "id": 122,
+        "name": "Barrierd",
+        "image": "0122_Barrierd.png",
+        "type": "psychic",
+        "secondType": "fairy",
+        "introduce" : null  
+    },
+    {
+        "id": 123,
+        "name": "Strike",
+        "image": "0123_Strike.png",
+        "type": "bug",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 124,
+        "name": "Rougela",
+        "image": "0124_Rougela.png",
+        "type": "ice",
+        "secondType": "psychic",
+        "introduce" : null  
+    },
+    {
+        "id": 125,
+        "name": "Eleboo",
+        "image": "0125_Eleboo.png",
+        "type": "electric",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 126,
+        "name": "Boomer",
+        "image": "0126_Boomer.png",
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 127,
+        "name": "Kailios",
+        "image": "0127_Kailios.png",
+        "type": "bug",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 128,
+        "name": "Kentauros",
+        "image": "0128_Kentauros.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 129,
+        "name": "Koiking",
+        "image": "0129_Koiking.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 130,
+        "name": "Gyarados",
+        "image": "0130_Gyarados.png",
+        "type": "water",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 131,
+        "name": "Lapras",
+        "image": "0131_Lapras.png",
+        "type": "water",
+        "secondType": "ice",
+        "introduce" : null  
+    },
+    {
+        "id": 132,
+        "name": "Metamon",
+        "image": "0132_Metamon.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 133,
+        "name": "Eevui",
+        "image": "0133_Eevui.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 134,
+        "name": "Showers",
+        "image": "0134_Showers.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 135,
+        "name": "Thunders",
+        "image": "0135_Thunders.png",
+        "type": "electric",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 136,
+        "name": "Booster",
+        "image": "0136_Booster.png",
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 137,
+        "name": "Porygon",
+        "image": "0137_Porygon.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 138,
+        "name": "Omnite",
+        "image": "0138_Omnite.png",
+        "type": "rock",
+        "secondType": "water",
+        "introduce" : null  
+    },
+    {
+        "id": 139,
+        "name": "Omstar",
+        "image": "0139_Omstar.png",
+        "type": "rock",
+        "secondType": "water",
+        "introduce" : null  
+    },
+    {
+        "id": 140,
+        "name": "Kabuto",
+        "image": "0140_Kabuto.png",
+        "type": "rock",
+        "secondType": "water",
+        "introduce" : null  
+    },
+    {
+        "id": 141,
+        "name": "Kabutops",
+        "image": "0141_Kabutops.png",
+        "type": "rock",
+        "secondType": "water",
+        "introduce" : null  
+    },
+    {
+        "id": 142,
+        "name": "Ptera",
+        "image": "0142_Ptera.png",
+        "type": "rock",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 143,
+        "name": "Kabigon",
+        "image": "0143_Kabigon.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 144,
+        "name": "Freezer",
+        "image": "0144_Freezer.png",
+        "type": "ice",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 145,
+        "name": "Thunder",
+        "image": "0145_Thunder.png",
+        "type": "electric",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 146,
+        "name": "Fire",
+        "image": "0146_Fire.png",
+        "type": "fire",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 147,
+        "name": "Miniryu",
+        "image": "0147_Miniryu.png",
+        "type": "dragon",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 148,
+        "name": "Hakuryu",
+        "image": "0148_Hakuryu.png",
+        "type": "dragon",  
+        "secondType": null,
+        "introduce" : null
+    },
+    {
+        "id": 149,
+        "name": "Kairyu",
+        "image": "0149_Kairyu.png",
+        "type": "dragon",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 150,
+        "name": "Mewtwo",
+        "image": "0150_Mewtwo.png",
+        "type": "psychic",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 151,
+        "name": "Mew",
+        "image": "0151_Mew.png",
+        "type": "psychic",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 152,
+        "name": "Chicorita",
+        "image": "0152_Chicorita.png",
+        "type": "grass",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 153,
+        "name": "Bayleaf",
+        "image": "0153_Bayleaf.png",
+        "type": "grass",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 154,
+        "name": "Meganium",
+        "image": "0154_Meganium.png",
+        "type": "grass",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 155,
+        "name": "Hinoarashi",
+        "image": "0155_Hinoarashi.png",
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 156,
+        "name": "Magmarashi",
+        "image": "0156_Magmarashi.png",
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 157,
+        "name": "Bakphoon",
+        "image": "0157_Bakphoon.png",
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 158,
+        "name": "Waninoko",
+        "image": "0158_Waninoko.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 159,
+        "name": "Alligates",
+        "image": "0159_Alligates.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 160,
+        "name": "Ordile",
+        "image": "0160_Ordile.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
     }
 ]

@@ -166,13 +166,13 @@
     background: linear-gradient(45deg, #0094e5, #00d0ff);
 }
 
-.pokemon-box--spirit::before,
-.pokemon-box--spirit::after{
+.pokemon-box--psychic::before,
+.pokemon-box--psychic::after{
     background: linear-gradient(45deg, #dc78c8, #f08cdc);
 }
 
-.pokemon-box--insects::before,
-.pokemon-box--insects::after{
+.pokemon-box--bug::before,
+.pokemon-box--bug::after{
     background: linear-gradient(45deg, #32b432, #38ef7d);
 }
 
@@ -186,13 +186,13 @@
     background: linear-gradient(45deg, #be78be, #DA22FF);
 }
 
-.pokemon-box--electrical::before,
-.pokemon-box--electrical::after{
+.pokemon-box--electric::before,
+.pokemon-box--electric::after{
     background: linear-gradient(45deg, #ffe100, #fffc00);
 }
 
-.pokemon-box--land::before,
-.pokemon-box--land::after{
+.pokemon-box--ground::before,
+.pokemon-box--ground::after{
     background: linear-gradient(45deg, #cca142, #fac85a);
 }
 
@@ -201,14 +201,29 @@
     background: linear-gradient(45deg, #ff7eb8, #ffafdc);
 }
 
-.pokemon-box--gladiator::before,
-.pokemon-box--gladiator::after{
+.pokemon-box--fighting::before,
+.pokemon-box--fighting::after{
     background: linear-gradient(45deg, #c85500, #dc6900);
 }
 
-.pokemon-box--stone::before,
-.pokemon-box--stone::after{
+.pokemon-box--rock::before,
+.pokemon-box--rock::after{
     background: linear-gradient(45deg, #a07850, #b48c64);
+}
+
+.pokemon-box--ghost::before,
+.pokemon-box--ghost::after{
+    background: linear-gradient(45deg, #8c78f0, #a08cff);
+}
+
+.pokemon-box--ice::before,
+.pokemon-box--ice::after{
+    background: linear-gradient(45deg, #00b7ee, #14f5ff);
+}
+
+.pokemon-box--dragon::before,
+.pokemon-box--dragon::after{
+    background: linear-gradient(45deg, #3c64c8, #5078dc);
 }
 
 .pokemon-box span{
@@ -362,5 +377,17 @@
         display: flex;
         width: calc(50% - 10px);
         margin: 5px;
+    }
+
+    .pokemon-box__image{
+        width: 100px;
+    }
+
+    .pokemon-box__name{
+        font-size: 15px;
+    }
+    
+    .pokemon-box__description{
+        font-size: 12px;
     }
 }
