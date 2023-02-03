@@ -1422,5 +1422,221 @@
         "type": "psychic",
         "secondType": "flying",
         "introduce" : null  
+    },
+    {
+        "id": 179,
+        "name": "Meripu",
+        "image": "0179_Meripu.png",
+        "type": "electric",
+        "secondType": null,
+        "introduce" : "Quần áo làm từ lông Meripu rất dễ nhiễm tĩnh điện, nên cần phải qua gia công đặc biệt để xử lí."  
+    },
+    {
+        "id": 180,
+        "name": "Mokoko",
+        "image": "0180_Mokoko.png",
+        "type": "electric",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 181,
+        "name": "Denryu",
+        "image": "0181_Denryu.png",
+        "type": "electric",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 182,
+        "name": "Kireihana",
+        "image": "0182_Kireihana.png",
+        "type": "grass",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 183,
+        "name": "Maril",
+        "image": "0183_Maril.png",
+        "type": "water",
+        "secondType": "fairy",
+        "introduce" : null  
+    },
+    {
+        "id": 184,
+        "name": "Marilli",
+        "image": "0184_Marilli.png",
+        "type": "water",
+        "secondType": "fairy",
+        "introduce" : null  
+    },
+    {
+        "id": 185,
+        "name": "Usokkie",
+        "image": "0185_Usokkie.png",
+        "type": "rock",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 186,
+        "name": "Nyorotono",
+        "image": "0186_Nyorotono.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 187,
+        "name": "Hanecco",
+        "image": "0187_Hanecco.png",
+        "type": "grass",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 188,
+        "name": "Popocco",
+        "image": "0188_Popocco.png",
+        "type": "grass",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 189,
+        "name": "Watacco",
+        "image": "0189_Watacco.png",
+        "type": "grass",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 190,
+        "name": "Eipam",
+        "image": "0190_Eipam.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 191,
+        "name": "Himanuts",
+        "image": "0191_Himanuts.png",
+        "type": "grass",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 192,
+        "name": "Kimawari",
+        "image": "0192_Kimawari.png",
+        "type": "grass",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 193,
+        "name": "Yanyanma",
+        "image": "0193_Yanyanma.png",
+        "type": "bug",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 194,
+        "name": "Upah",
+        "image": "0194_Upah.png",
+        "type": "water",
+        "secondType": "ground",
+        "introduce" : null  
+    },
+    {
+        "id": 195,
+        "name": "Nuoh",
+        "image": "0195_Nuoh.png",
+        "type": "water",
+        "secondType": "ground",
+        "introduce" : null  
+    },
+    {
+        "id": 196,
+        "name": "Eifie",
+        "image": "0196_Eifie.png",
+        "type": "psychic",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 197,
+        "name": "Blacky",
+        "image": "0197_Blacky.png",
+        "type": "dark",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 198,
+        "name": "Yamikarasu",
+        "image": "0198_Yamikarasu.png",
+        "type": "dark",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 199,
+        "name": "Yadoking",
+        "image": "0199_Yadoking.png",
+        "type": "water",
+        "secondType": "psychic",
+        "introduce" : null  
+    },
+    {
+        "id": 200,
+        "name": "Muma",
+        "image": "0200_Muma.png",
+        "type": "ghost",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 201,
+        "name": "Unknown",
+        "image": "0201_Unknown.png",
+        "type": "psychic",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 202,
+        "name": "Sonans",
+        "image": "0202_Sonans.png",
+        "type": "psychic",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 203,
+        "name": "Kirinriki",
+        "image": "0203_Kirinriki.png",
+        "type": "normal",
+        "secondType": "psychic",
+        "introduce" : null  
+    },
+    {
+        "id": 204,
+        "name": "Kunugidama",
+        "image": "0204_Kunugidama.png",
+        "type": "bug",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 205,
+        "name": "Foretos",
+        "image": "0205_Foretos.png",
+        "type": "bug",
+        "secondType": "steel",
+        "introduce" : null  
     }
 ]
