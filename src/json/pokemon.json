@@ -5,7 +5,7 @@
         "image": "0001_Fushigidane.png",
         "type": "grass",
         "secondType": "poison",
-        "introduce" : null
+        "introduce" : "Người ta thường thấy Fushigidane nằm ngủ dưới ánh nắng. Càng đắm mình trong nắng, hạt giống trên lưng chúng càng phát triển."
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "image": "0002_Fushigisou.png",
         "type": "grass",
         "secondType": "poison",
-        "introduce" : null 
+        "introduce" : "Tứ chi của loài này phát triển cứng cáp nhằm nâng đỡ cái nụ trên lưng. Nếu chúng phơi mình hàng giờ liền dưới nắng, nghĩa là nụ sắp nở thành hoa lớn." 
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "image": "0003_Fushigibana.png",
         "type": "grass",
         "secondType": "poison",
-        "introduce" : null 
+        "introduce" : "Nếu có đủ lượng dinh dưỡng và ánh nắng cần thiết, bông hoa trên lưng chúng sẽ tươi xinh rực rỡ. Hương thơm từ bông hoa này xoa dịu cảm xúc con người." 
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "image": "0004_Hitokage.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null 
+        "introduce" : "Tính cách ưa thích đồ nóng. Nghe nói khi trời mưa khói sẽ phụt ra từ đuôi của nó." 
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "image": "0005_Lizardo.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null 
+        "introduce" : "Với bản tính hung bạo, nó sẽ dùng vuốt cào xé và quật cái đuôi lửa vào kẻ địch." 
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "image": "0006_Lizardon.png",
         "type": "fire",
         "secondType": "flying",
-        "introduce" : null 
+        "introduce" : "Lizardon khè ra lửa với sức nóng đến đá tảng cũng tan chảy, nó còn có thể gây ra cháy rừng." 
     }, 
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "image": "0007_Zenigame.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "introduce" : "Chiếc mai của Zenigame không chỉ để tự vệ, mà còn làm giảm tối đa lực cản nước nhờ hình dáng tròn trịa cùng bề mặt nhiều rãnh, giúp chúng bơi nhanh hơn."  
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "image": "0008_Kameil.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "introduce" : "Kameil càng cao tuổi thì cái đuôi lớn, rậm lông sẽ càng sậm màu. Những vết xước trên mai là chiến tích minh chứng cho sức mạnh của chúng."  
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "image": "0009_Kamex.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "introduce" : "Kamex bắn nước từ hai khẩu súng nhô ra ở mai. Với độ chuẩn xác cực cao, những phát đạn nước có thể nhắm trúng lon rỗng cách xa 50 mét."  
     },
     {
         "id": 10,
@@ -77,7 +77,7 @@
         "image": "0010_Caterpie.png",
         "type": "bug",
         "secondType": null,
-        "introduce" : null  
+        "introduce" :"Để tự vệ, chúng phát ra một mùi hôi nồng nặc để xua đuổi kẻ thù."  
     },
     {
         "id": 11,
@@ -85,7 +85,7 @@
         "image": "0011_Transell.png",
         "type": "bug",
         "secondType": null,
-        "introduce" : null  
+        "introduce" : "Trong trạng thái chờ tiến hoá, chúng đông cứng và bất động để tránh bị tấn công."  
     },
     {
         "id": 12,
@@ -93,7 +93,7 @@
         "image": "0012_Butterfree.png",
         "type": "bug",
         "secondType": "flying",
-        "introduce" : null  
+        "introduce" : "Trong trận chiến, chúng sẽ vỗ cánh với tốc độ lớn để phát tán độc tố vào không khí."  
     },
     {
         "id": 13,
@@ -101,7 +101,7 @@
         "image": "0013_Beedle.png",
         "type": "bug",
         "secondType": "poison",
-        "introduce" : null  
+        "introduce" : "Beedle sở hữu khức giác cực nhạy. Chúng dùng chiếc mũi lớn màu đỏ để phân biệt những loại lá cây mình thích hoặc ghét."  
     },
     {
         "id": 14,
@@ -109,7 +109,7 @@
         "image": "0014_Cocoon.png",
         "type": "bug",
         "secondType": "poison",
-        "introduce" : null   
+        "introduce" : "Cocoon treo mình bất động trên cây nhưng lại cực kì bận rộn bên trong lớp vỏ, nhằm chuẩn bị cho quá trình tiến hóa. Cơ thể nóng bừng của chúng minh chứng cho điều này."   
     },
     {
         "id": 15,
@@ -117,7 +117,7 @@
         "image": "0015_Spear.png",
         "type": "bug",
         "secondType": "poison",
-        "introduce" : null   
+        "introduce" : "Spear có tập tính lãnh thổ rất cao. Vì an nguy của chính bạn, đừng dại dột đến gần tổ chúng. Nếu bị chọc giận, cả bầy sẽ lao ra tấn công."   
     },
     {
         "id": 16,
@@ -125,7 +125,7 @@
         "image": "0016_Poppo.png",
         "type": "normal",
         "secondType": "flying",
-        "introduce" : null   
+        "introduce" : "Nhờ sở hữu khả năng định hướng cực nhạy bén, chúng luôn tìm được đường về dù có cách xa tổ đến mấy."   
     },
     {
         "id": 17,
@@ -1277,6 +1277,150 @@
         "image": "0160_Ordile.png",
         "type": "water",
         "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 161,
+        "name": "Otachi",
+        "image": "0161_Otachi.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 162,
+        "name": "Ootachi",
+        "image": "0162_Ootachi.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 163,
+        "name": "Hoho",
+        "image": "0163_Hoho.png",
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 164,
+        "name": "Yorunozuku",
+        "image": "0164_Yorunozuku.png",
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 165,
+        "name": "Rediba",
+        "image": "0165_Rediba.png",
+        "type": "bug",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 166,
+        "name": "Redian",
+        "image": "0166_Redian.png",
+        "type": "bug",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 167,
+        "name": "Itomaru",
+        "image": "0167_Itomaru.png",
+        "type": "bug",
+        "secondType": "poison",
+        "introduce" : null  
+    },
+    {
+        "id": 168,
+        "name": "Ariados",
+        "image": "0168_Ariados.png",
+        "type": "bug",
+        "secondType": "poison",
+        "introduce" : null  
+    },
+    {
+        "id": 169,
+        "name": "Crobat",
+        "image": "0169_Crobat.png",
+        "type": "poison",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 170,
+        "name": "Chonchie",
+        "image": "0170_Chonchie.png",
+        "type": "water",
+        "secondType": "electric",
+        "introduce" : null  
+    },
+    {
+        "id": 171,
+        "name": "Lantern",
+        "image": "0171_Lantern.png",
+        "type": "water",
+        "secondType": "electric",
+        "introduce" : null  
+    },
+    {
+        "id": 172,
+        "name": "Pichu",
+        "image": "0172_Pichu.png",
+        "type": "electric",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 173,
+        "name": "Py",
+        "image": "0173_Py.png",
+        "type": "fairy",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 174,
+        "name": "Pupurin",
+        "image": "0174_Pupurin.png",
+        "type": "normal",
+        "secondType": "fairy",
+        "introduce" : null  
+    },
+    {
+        "id": 175,
+        "name": "Togepy",
+        "image": "0175_Togepy.png",
+        "type": "fairy",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 176,
+        "name": "Togechick",
+        "image": "0176_Togechick.png",
+        "type": "fairy",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 177,
+        "name": "Naty",
+        "image": "0177_Naty.png",
+        "type": "psychic",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 178,
+        "name": "Natio",
+        "image": "0178_Natio.png",
+        "type": "psychic",
+        "secondType": "flying",
         "introduce" : null  
     }
 ]

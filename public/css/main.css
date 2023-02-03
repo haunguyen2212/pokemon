@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Luckiest+Guy&family=Poppins:wght@300&display=swap');
 
 :root{
     --main-bg: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
@@ -21,7 +23,25 @@
     --warning: #ffc107;
     --danger: #dc3545;
     --light: #f8f9fa;
-    --dark: #212529;
+    --black: #212529;
+    --grass: #b4f000;
+    --fire: #ff6900;
+    --water: #14b9ff;
+    --bug: #46c846;
+    --normal: #a0a0a0; 
+    --poison: #d28cd2;
+    --electric: #ffe100;
+    --flying: #78dcff;
+    --psychic: #f08cdc;
+    --ground: #fac85a;
+    --ice: #14f5ff;
+    --steel: #aac8f0;
+    --fairy: #ffafdc;
+    --dark: #787878;
+    --fighting: #dc6900;
+    --rock: #b48c64;
+    --ghost: #a08cff;
+    --dragon: #5078dc;
 }
 
 body{
@@ -215,4 +235,148 @@ a{
                 0 0 20px #ffc000,
                 0 0 60px #ffc000,
                 0 0 150px #ffc000;
+}
+
+.bg-half-circle-grass{
+    background: radial-gradient(circle at 50% 0%, var(--grass) 36%, #fff 36%);
+}
+
+.bg-half-circle-fire{
+    background: radial-gradient(circle at 50% 0%, var(--fire) 36%, #fff 36%);
+}
+
+.bg-half-circle-water{
+    background: radial-gradient(circle at 50% 0%, var(--water) 36%, #fff 36%);
+}
+
+.bg-half-circle-bug{
+    background: radial-gradient(circle at 50% 0%, var(--bug) 36%, #fff 36%);
+}
+
+.bg-half-circle-normal{
+    background: radial-gradient(circle at 50% 0%, var(--normal) 36%, #fff 36%);
+}
+
+.bg-half-circle-poison{
+    background: radial-gradient(circle at 50% 0%, var(--poison) 36%, #fff 36%);
+}
+
+.bg-half-circle-electric{
+    background: radial-gradient(circle at 50% 0%, var(--electric) 36%, #fff 36%);
+}
+
+.bg-half-circle-flying{
+    background: radial-gradient(circle at 50% 0%, var(--flying) 36%, #fff 36%);
+}
+
+.bg-half-circle-psychic{
+    background: radial-gradient(circle at 50% 0%, var(--psychic) 36%, #fff 36%);
+}
+
+.bg-half-circle-ground{
+    background: radial-gradient(circle at 50% 0%, var(--ground) 36%, #fff 36%);
+}
+
+.bg-half-circle-ice{
+    background: radial-gradient(circle at 50% 0%, var(--ice) 36%, #fff 36%);
+}
+
+.bg-half-circle-steel{
+    background: radial-gradient(circle at 50% 0%, var(--steel) 36%, #fff 36%);
+}
+
+.bg-half-circle-fairy{
+    background: radial-gradient(circle at 50% 0%, var(--fairy) 36%, #fff 36%);
+}
+
+.bg-half-circle-dark{
+    background: radial-gradient(circle at 50% 0%, var(--dark) 36%, #fff 36%);
+}
+
+.bg-half-circle-fighting{
+    background: radial-gradient(circle at 50% 0%, var(--fighting) 36%, #fff 36%);
+}
+
+.bg-half-circle-rock{
+    background: radial-gradient(circle at 50% 0%, var(--rock) 36%, #fff 36%);
+}
+
+.bg-half-circle-ghost{
+    background: radial-gradient(circle at 50% 0%, var(--ghost) 36%, #fff 36%);
+}
+
+.bg-half-circle-dragon{
+    background: radial-gradient(circle at 50% 0%, var(--dragon) 36%, #fff 36%);
+}
+
+.badge-grass{
+    background: var(--grass);
+}
+
+.badge-fire{
+    background: var(--fire);
+}
+
+.badge-water{
+    background: var(--water);
+}
+
+.badge-bug{
+    background: var(--bug);
+}
+
+.badge-normal{
+    background: var(--normal);
+}
+
+.badge-poison{
+    background: var(--poison);
+}
+
+.badge-electric{
+    background: var(--electric);
+}
+
+.badge-flying{
+    background: var(--flying);
+}
+
+.badge-psychic{
+    background: var(--psychic);
+}
+
+.badge-ground{
+    background: var(--ground);
+}
+
+.badge-ice{
+    background: var(--ice);
+}
+
+.badge-steel{
+    background: var(--steel);
+}
+
+.badge-fairy{
+    background: var(--fairy);
+}
+
+.badge-dark{
+    background: var(--dark);
+}
+
+.badge-fighting{
+    background: var(--fighting);
+}
+
+.badge-rock{
+    background: var(--rock);
+}
+
+.badge-ghost{
+    background: var(--ghost);
+}
+
+.badge-dragon{
+    background: var(--dragon);
 }

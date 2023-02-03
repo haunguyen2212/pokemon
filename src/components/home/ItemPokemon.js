@@ -1,14 +1,25 @@
 function ItemPokemon({data}){
     return (
-        <div className={`pokemon-box pokemon-box--${data.type}`}>
-            <span></span>
-            <div className="pokemon-box__content">
-                <a className="pokemon-box__link" href="/home">
-                    <img className="pokemon-box__image" src={ process.env.PUBLIC_URL + '/pokemon/' + data.image} alt={data.name} /> 
-                    <div className="pokemon-box__name">{data.name}</div>
-                    <div className="pokemon-box__description">When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</div>
-                </a>
-            </div>   
+        <div className={`pokemon-card bg-half-circle-${data.type}`}>
+            <div className="pokemon-card__no">{String(data.id).padStart(3, '0')}</div>
+            <img className="pokemon-card__image" src={process.env.PUBLIC_URL + '/pokemon/' + data.image} alt={data.name} />
+            <div className="pokemon-card__name">
+                {data.name}
+            </div>
+            <div className="pokemon-card__type">
+                <span className={`badge-${data.type}`}>{data.type}</span>
+                {data.secondType !== null ? <span className={`badge-${data.secondType}`}>{data.secondType}</span> : ''}
+            </div>
+            <div className="pokemon-card__stats">
+                <div>
+                    <div>60</div>
+                    <div>Attack</div>
+                </div>
+                <div>
+                    <div>60</div>
+                    <div>Defense</div>
+                </div>
+            </div>
         </div>
     )
 }
