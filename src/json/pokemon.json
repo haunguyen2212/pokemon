@@ -5,6 +5,8 @@
         "image": "0001_Fushigidane.png",
         "type": "grass",
         "secondType": "poison",
+        "height": 0.7,
+        "weight": 6.9,
         "introduce" : "Người ta thường thấy Fushigidane nằm ngủ dưới ánh nắng. Càng đắm mình trong nắng, hạt giống trên lưng chúng càng phát triển."
     },
     {
@@ -13,6 +15,8 @@
         "image": "0002_Fushigisou.png",
         "type": "grass",
         "secondType": "poison",
+        "height": 1.0,
+        "weight": 13.0,
         "introduce" : "Tứ chi của loài này phát triển cứng cáp nhằm nâng đỡ cái nụ trên lưng. Nếu chúng phơi mình hàng giờ liền dưới nắng, nghĩa là nụ sắp nở thành hoa lớn." 
     },
     {
@@ -21,6 +25,8 @@
         "image": "0003_Fushigibana.png",
         "type": "grass",
         "secondType": "poison",
+        "height": 2.0,
+        "weight": 100.0,
         "introduce" : "Nếu có đủ lượng dinh dưỡng và ánh nắng cần thiết, bông hoa trên lưng chúng sẽ tươi xinh rực rỡ. Hương thơm từ bông hoa này xoa dịu cảm xúc con người." 
     },
     {
@@ -29,6 +35,8 @@
         "image": "0004_Hitokage.png",
         "type": "fire",
         "secondType": null,
+        "height": 0.6,
+        "weight": 8.5,
         "introduce" : "Tính cách ưa thích đồ nóng. Nghe nói khi trời mưa khói sẽ phụt ra từ đuôi của nó." 
     },
     {
@@ -37,6 +45,8 @@
         "image": "0005_Lizardo.png",
         "type": "fire",
         "secondType": null,
+        "height": 1.1,
+        "weight": 19.0,
         "introduce" : "Với bản tính hung bạo, nó sẽ dùng vuốt cào xé và quật cái đuôi lửa vào kẻ địch." 
     },
     {
@@ -45,6 +55,8 @@
         "image": "0006_Lizardon.png",
         "type": "fire",
         "secondType": "flying",
+        "height": 1.7,
+        "weight": 90.5,
         "introduce" : "Lizardon khè ra lửa với sức nóng đến đá tảng cũng tan chảy, nó còn có thể gây ra cháy rừng." 
     }, 
     {
@@ -53,6 +65,8 @@
         "image": "0007_Zenigame.png",
         "type": "water",
         "secondType": null,
+        "height": 0.5,
+        "weight": 9.0,
         "introduce" : "Chiếc mai của Zenigame không chỉ để tự vệ, mà còn làm giảm tối đa lực cản nước nhờ hình dáng tròn trịa cùng bề mặt nhiều rãnh, giúp chúng bơi nhanh hơn."  
     },
     {
@@ -61,6 +75,8 @@
         "image": "0008_Kameil.png",
         "type": "water",
         "secondType": null,
+        "height": 1.0,
+        "weight": 22.5,
         "introduce" : "Kameil càng cao tuổi thì cái đuôi lớn, rậm lông sẽ càng sậm màu. Những vết xước trên mai là chiến tích minh chứng cho sức mạnh của chúng."  
     },
     {
@@ -69,6 +85,8 @@
         "image": "0009_Kamex.png",
         "type": "water",
         "secondType": null,
+        "height": 1.6,
+        "weight": 85.5,
         "introduce" : "Kamex bắn nước từ hai khẩu súng nhô ra ở mai. Với độ chuẩn xác cực cao, những phát đạn nước có thể nhắm trúng lon rỗng cách xa 50 mét."  
     },
     {
@@ -77,6 +95,8 @@
         "image": "0010_Caterpie.png",
         "type": "bug",
         "secondType": null,
+        "height": 0.3,
+        "weight": 2.9,
         "introduce" :"Để tự vệ, chúng phát ra một mùi hôi nồng nặc để xua đuổi kẻ thù."  
     },
     {
@@ -85,6 +105,8 @@
         "image": "0011_Transell.png",
         "type": "bug",
         "secondType": null,
+        "height": 0.7,
+        "weight": 9.9,
         "introduce" : "Trong trạng thái chờ tiến hoá, chúng đông cứng và bất động để tránh bị tấn công."  
     },
     {
@@ -93,6 +115,8 @@
         "image": "0012_Butterfree.png",
         "type": "bug",
         "secondType": "flying",
+        "height": 1.1,
+        "weight": 32.0,
         "introduce" : "Trong trận chiến, chúng sẽ vỗ cánh với tốc độ lớn để phát tán độc tố vào không khí."  
     },
     {
@@ -101,6 +125,8 @@
         "image": "0013_Beedle.png",
         "type": "bug",
         "secondType": "poison",
+        "height": 0.3,
+        "weight": 3.2,
         "introduce" : "Beedle sở hữu khức giác cực nhạy. Chúng dùng chiếc mũi lớn màu đỏ để phân biệt những loại lá cây mình thích hoặc ghét."  
     },
     {
@@ -109,6 +135,8 @@
         "image": "0014_Cocoon.png",
         "type": "bug",
         "secondType": "poison",
+        "height": 0.6,
+        "weight": 10.0,
         "introduce" : "Cocoon treo mình bất động trên cây nhưng lại cực kì bận rộn bên trong lớp vỏ, nhằm chuẩn bị cho quá trình tiến hóa. Cơ thể nóng bừng của chúng minh chứng cho điều này."   
     },
     {
@@ -117,6 +145,8 @@
         "image": "0015_Spear.png",
         "type": "bug",
         "secondType": "poison",
+        "height": 1.0,
+        "weight": 29.5,
         "introduce" : "Spear có tập tính lãnh thổ rất cao. Vì an nguy của chính bạn, đừng dại dột đến gần tổ chúng. Nếu bị chọc giận, cả bầy sẽ lao ra tấn công."   
     },
     {
@@ -125,6 +155,8 @@
         "image": "0016_Poppo.png",
         "type": "normal",
         "secondType": "flying",
+        "height": 0.3,
+        "weight": 1.8,
         "introduce" : "Nhờ sở hữu khả năng định hướng cực nhạy bén, chúng luôn tìm được đường về dù có cách xa tổ đến mấy."   
     },
     {
@@ -133,7 +165,9 @@
         "image": "0017_Pigeon.png",
         "type": "normal",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 1.1,
+        "weight": 30.0,
+        "introduce" : "Pigeon bay lượn xung quanh để canh gác địa bàn rộng lớn của mình. Nếu có kẻ xâm phạm, chúng sẽ tung vuốt bén tấn công không khoan nhượng."  
     },
     {
         "id": 18,
@@ -141,7 +175,9 @@
         "image": "0018_Pigeot.png",
         "type": "normal",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 1.5,
+        "weight": 39.5,
+        "introduce" : "Loài Pokémon này sở hữu bộ lông vũ óng mượt, lấp lánh. Nhiều Nhà huấn luyện quyết định nuôi Pigeot vì say đắm mái tóc tuyệt mĩ của chúng."  
     },
     {
         "id": 19,
@@ -149,7 +185,9 @@
         "image": "0019_Koratta.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.3,
+        "weight": 3.5,
+        "introduce" : "Những răng cửa liên tục phát triển suốt cả cuộc đời Koratta. Nếu để răng quá dài, chúng sẽ chết đói vì không thể ăn uống được."  
     },
     {
         "id": 20,
@@ -157,7 +195,9 @@
         "image": "0020_Ratta.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.7,
+        "weight": 18.5,
+        "introduce" : "Người ta nói ở Alola, chúng chạy trốn kẻ thù bằng cách bơi từ đảo này sang đảo khác, nhờ lớp màng nhỏ ở đôi chân sau."  
     },
     {
         "id": 21,
@@ -165,7 +205,9 @@
         "image": "0021_Onisuzume.png",
         "type": "normal",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 0.3,
+        "weight": 2.0,
+        "introduce" : "Để bảo vệ lãnh thổ, loài Pokémon liều lĩnh này sẵn sàng đứng lên chống lại những Pokémon to lớn hơn mình."  
     },
     {
         "id": 22,
@@ -173,7 +215,9 @@
         "image": "0022_Onidrill.png",
         "type": "normal",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 1.2,
+        "weight": 38.0,
+        "introduce" : "Chớ dại mang thức ăn đi qua lãnh địa của Onidrill. Chúng sẽ cuỗm mất trong chớp mắt đấy!"  
     },
     {
         "id": 23,
@@ -181,7 +225,9 @@
         "image": "0023_Arbo.png",
         "type": "poison",
         "secondType": null,
-        "introduce" : null  
+        "height": 2.0,
+        "weight": 6.9,
+        "introduce" : "Bằng cách tự làm trật khớp hàm, Arbo có thể nuốt chửng cả con mồi to lớn. Chúng cuộn mình nghỉ ngơi sau mỗi lần đánh chén no nê."  
     },
     {
         "id": 24,
@@ -189,7 +235,9 @@
         "image": "0024_Arbok.png",
         "type": "poison",
         "secondType": null,
-        "introduce" : null  
+        "height": 3.5,
+        "weight": 65.0,
+        "introduce" : "Nghiên cứu gần đây nhất cho thấy, loài Arbok có đến hơn 20 kiểu bài trí hoa văn trên bụng."  
     },
     {
         "id": 25,
@@ -197,7 +245,9 @@
         "image": "0025_Pikachu.png",
         "type": "electric",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.4,
+        "weight": 6.0,
+        "introduce" : "Những Pikachu có thể tạo ra dòng điện càng mạnh thì túi má càng mềm mại và lớn nhanh."  
     },
     {
         "id": 26,
@@ -205,7 +255,9 @@
         "image": "0026_Raichu.png",
         "type": "electric",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.8,
+        "weight": 30.0,
+        "introduce" : "Chiếc đuôi dài của Raichu sẽ làm dây nối đất để bảo vệ bản thân trước dòng điện cao thế trong cơ thể."  
     },
     {
         "id": 27,
@@ -213,7 +265,9 @@
         "image": "0027_Sand.png",
         "type": "ground",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.6,
+        "weight": 12.0,
+        "introduce" : "Loài này sống ở những nơi có thật ít mưa. Mỗi khi nguy hiểm rình rập, chúng cuộn mình lại để bảo vệ phần bụng mềm yếu."  
     },
     {
         "id": 28,
@@ -221,15 +275,19 @@
         "image": "0028_Sandpan.png",
         "type": "ground",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 29.5,
+        "introduce" : "Các vuốt và gai đã rụng của Sandpan được con người nhặt về và đẽo thành lưỡi cày, phục vụ cho việc canh tác."  
     },      
     {
         "id": 29,
-        "name": "Nidoran",
+        "name": "Nidoran♀",
         "image": "0029_Nidoran.png",
         "type": "poison",
         "secondType": null,
-        "introduce" : null 
+        "height": 0.4,
+        "weight": 7.0,
+        "introduce" : "Gai Nidoran♀ chứa nọc cực độc, có vẻ nhằm bảo vệ cơ thể nhỏ bé của chúng. Khi tức giận, chúng phóng độc tố nguy hại từ chiếc sừng." 
     },
     {
         "id": 30,
@@ -237,7 +295,9 @@
         "image": "0030_Nidorina.png",
         "type": "poison",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.8,
+        "weight": 20.0,
+        "introduce" : "Lúc ở cùng bạn bè hoặc gia đình, chúng thu gai lại nhằm tránh làm đau nhau. Chúng thường trở nên bất an mỗi khi bị tách khỏi bầy."  
     },
     {
         "id": 31,
@@ -245,15 +305,19 @@
         "image": "0031_Nidoqueen.png",
         "type": "poison",
         "secondType": "ground",
-        "introduce" : null  
+        "height": 1.3,
+        "weight": 60.0,
+        "introduce" : "Chúng húc văng đối thủ bằng cơ thể bọc vảy cứng của mình. Loài Pokémon này mạnh nhất vào những lúc cần bảo vệ con nhỏ."  
     },
     {
         "id": 32,
-        "name": "Nidoran",
+        "name": "Nidoran♂",
         "image": "0032_Nidoran.png",
         "type": "poison",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.5,
+        "weight": 9.0,
+        "introduce" : "Nhờ cơ tai phát triển, chúng có thể di chuyển đôi tai mọi hướng. Một tiếng động nhỏ nhất cũng không thoát khỏi thính giác của loài Pokémon này."  
     },
     {
         "id": 33,
@@ -261,7 +325,9 @@
         "image": "0033_Nidorino.png",
         "type": "poison",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.9,
+        "weight": 19.5,
+        "introduce" : "Sừng Nidorino cứng hơn cả kim cương. Khi phát hiện kẻ địch, toàn bộ gai độc trên người chúng dựng đứng, sẵn sàng toàn lực nghênh chiến."  
     },
     {
         "id": 34,
@@ -269,7 +335,9 @@
         "image": "0034_Nidoking.png",
         "type": "poison",
         "secondType": "ground",
-        "introduce" : null  
+        "height": 1.4,
+        "weight": 62.0,
+        "introduce" : "Cái đuôi khổng lồ của Nidoking có sức tàn phá kinh hoàng, đánh sập cả ngọn tháp sắt chỉ với một cú quật. Khi chúng nổi trận lôi đình, không ai đủ sức ngăn chặn ."  
     },
     {
         "id": 35,
@@ -1637,6 +1705,246 @@
         "image": "0205_Foretos.png",
         "type": "bug",
         "secondType": "steel",
+        "introduce" : null  
+    },
+    {
+        "id": 206,
+        "name": "Nokocchi",
+        "image": "0206_Nokocchi.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 207,
+        "name": "Gliger",
+        "image": "0207_Gliger.png",
+        "type": "ground",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 208,
+        "name": "Haganeil",
+        "image": "0208_Haganeil.png",
+        "type": "steel",
+        "secondType": "ground",
+        "introduce" : null  
+    },
+    {
+        "id": 209,
+        "name": "Bulu",
+        "image": "0209_Bulu.png",
+        "type": "fairy",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 210,
+        "name": "Granbulu",
+        "image": "0210_Granbulu.png",
+        "type": "fairy",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 211,
+        "name": "Harysen",
+        "image": "0211_Harysen.png",
+        "type": "water",
+        "secondType": "poison",
+        "introduce" : null  
+    },
+    {
+        "id": 212,
+        "name": "Hassam",
+        "image": "0212_Hassam.png",
+        "type": "bug",
+        "secondType": "steel",
+        "introduce" : null  
+    },
+    {
+        "id": 213,
+        "name": "Tsubotsubo",
+        "image": "0213_Tsubotsubo.png",
+        "type": "bug",
+        "secondType": "rock",
+        "introduce" : null  
+    },
+    {
+        "id": 214,
+        "name": "Heracros",
+        "image": "0214_Heracros.png",
+        "type": "bug",
+        "secondType": "fighting",
+        "introduce" : null  
+    },
+    {
+        "id": 215,
+        "name": "Nyula",
+        "image": "0215_Nyula.png",
+        "type": "dark",
+        "secondType": "ice",
+        "introduce" : null  
+    },
+    {
+        "id": 216,
+        "name": "Himeguma",
+        "image": "0216_Himeguma.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 217,
+        "name": "Ringuma",
+        "image": "0217_Ringuma.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 218,
+        "name": "Magmag",
+        "image": "0218_Magmag.png",
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 219,
+        "name": "Magcargot",
+        "image": "0219_Magcargot.png",
+        "type": "fire",
+        "secondType": "rock",
+        "introduce" : null  
+    },
+    {
+        "id": 220,
+        "name": "Urimoo",
+        "image": "0220_Urimoo.png",
+        "type": "ice",
+        "secondType": "ground",
+        "introduce" : null  
+    },
+    {
+        "id": 221,
+        "name": "Inomoo",
+        "image": "0221_Inomoo.png",
+        "type": "ice",
+        "secondType": "ground",
+        "introduce" : null  
+    },
+    {
+        "id": 222,
+        "name": "Sunnygo",
+        "image": "0222_Sunnygo.png",
+        "type": "water",
+        "secondType": "rock",
+        "introduce" : null  
+    },
+    {
+        "id": 223,
+        "name": "Teppouo",
+        "image": "0223_Teppouo.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 224,
+        "name": "Okutank",
+        "image": "0224_Okutank.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 225,
+        "name": "Delibird",
+        "image": "0225_Delibird.png",
+        "type": "ice",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 226,
+        "name": "Maintain",
+        "image": "0226_Maintain.png",
+        "type": "water",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 227,
+        "name": "Airmd",
+        "image": "0227_Airmd.png",
+        "type": "steel",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 228,
+        "name": "Delvil",
+        "image": "0228_Delvil.png",
+        "type": "dark",
+        "secondType": "fire",
+        "introduce" : null  
+    },
+    {
+        "id": 229,
+        "name": "Hellgar",
+        "image": "0229_Hellgar.png",
+        "type": "dark",
+        "secondType": "fire",
+        "introduce" : null  
+    },
+    {
+        "id": 230,
+        "name": "Kingdra",
+        "image": "0230_Kingdra.png",
+        "type": "water",
+        "secondType": "dragon",
+        "introduce" : null  
+    },
+    {
+        "id": 231,
+        "name": "Gomazou",
+        "image": "0231_Gomazou.png",
+        "type": "ground",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 232,
+        "name": "Donfan",
+        "image": "0232_Donfan.png",
+        "type": "ground",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 233,
+        "name": "Porygon2",
+        "image": "0233_Porygon2.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 234,
+        "name": "Odoshishi",
+        "image": "0234_Odoshishi.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 235,
+        "name": "Doble",
+        "image": "0235_Doble.png",
+        "type": "normal",
+        "secondType": null,
         "introduce" : null  
     }
 ]
