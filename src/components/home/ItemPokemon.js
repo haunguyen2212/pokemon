@@ -12,12 +12,12 @@ function ItemPokemon({data, onSearch}){
             </div>
             <div className="pokemon-card__stats">
                 <div>
-                    <div>{Number.parseFloat(data.height).toFixed(1)}</div>
                     <div>Height</div>
+                    <div>{Number.parseFloat(data.height).toFixed(1)}</div>
                 </div>
                 <div>
-                    <div>{Number.parseFloat(data.weight).toFixed(1)}</div>
                     <div>Weight</div>
+                    <div>{Number.parseFloat(data.weight).toFixed(1)}</div>
                 </div>
             </div>
         </div>

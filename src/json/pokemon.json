@@ -345,7 +345,9 @@
         "image": "0035_Pippi.png",
         "type": "fairy",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.6,
+        "weight": 7.5,
+        "introduce" : "Tương truyền rằng hạnh phúc sẽ tới với ai thấy một đàn Pippi tụ tập nhảy múa dưới trăng rằm."  
     },
     {
         "id": 36,
@@ -353,7 +355,9 @@
         "image": "0036_Pixy.png",
         "type": "fairy",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.3,
+        "weight": 40.0,
+        "introduce" : "Hiếm khi Pixy xuất hiện trước con người. Ngay khi cảm nhận được con người, nó sẽ bỏ chạy ngay."  
     },
     {
         "id": 37,
@@ -361,7 +365,9 @@
         "image": "0037_Rokon.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.6,
+        "weight": 9.9,    
+        "introduce" : "Rokon nhỏ có 6 đuôi rất đẹp. Khi trưởng thành, Rokon sẽ mọc ra vài cái đuôi mới."  
     },
     {
         "id": 38,
@@ -369,7 +375,9 @@
         "image": "0038_Kyukon.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.1,
+        "weight": 19.9,
+        "introduce" : "Mỗi chiếc đuôi đều chứa sức mạnh. Người ta đồn đại rằng Kyukon sống đến một nghìn năm."  
     },
     {
         "id": 39,
@@ -377,7 +385,9 @@
         "image": "0039_Purin.png",
         "type": "normal",
         "secondType": "fairy",
-        "introduce" : null  
+        "height": 0.5,
+        "weight": 5.5,
+        "introduce" : "Những bản thu âm tuyển tập bài hát ru kì lạ của Purin được bán tại các cửa hàng tạp hóa. Rất nhiều người coi chúng là vật gối đầu giường."  
     },
     {
         "id": 40,
@@ -385,7 +395,9 @@
         "image": "0040_Pukurin.png",
         "type": "normal",
         "secondType": "fairy",
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 12.0,
+        "introduce" : "Loài này được săn đón vì cơ thể đàn hồi và bộ lông mềm mượt. Được ôm chúng khi ngủ thì thật tuyệt biết bao!"  
     },
     {
         "id": 41,
@@ -393,7 +405,9 @@
         "image": "0041_Zubat.png",
         "type": "poison",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 0.8,
+        "weight": 7.5,
+        "introduce" : "Loài này bị khiếm khuyết thị giác vì chúng không có nhãn cầu. Thay vào đó, chúng phát sóng siêu âm từ miệng để định vị xung quanh."  
     },
     {
         "id": 42,
@@ -401,7 +415,9 @@
         "image": "0042_Golbat.png",
         "type": "poison",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 1.6,
+        "weight": 55.0,
+        "introduce" : "Thỉnh thoảng, bạn sẽ thấy vài con Golbat bị mất răng. Chính cơn đói đã khiến chúng cố gắng cắn vào các Pokémon hệ Thép."  
     },
     {
         "id": 43,
@@ -409,7 +425,9 @@
         "image": "0043_Nazonokusa.png",
         "type": "grass",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 0.5,
+        "weight": 5.4,
+        "introduce" : "Bắt đầu di chuyển sau khi tắm trong ánh trăng. Trong đêm tối nó đi khắp nơi để gieo hạt giống."  
     },
     {
         "id": 44,
@@ -417,7 +435,9 @@
         "image": "0044_Kusaihana.png",
         "type": "grass",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 0.8,
+        "weight": 8.6,
+        "introduce" : "Mùi thối kinh khủng tiết ra từ nhụy có thể bay đến tận nơi cách xa 2km và gây bất tỉnh."  
     },
     {
         "id": 45,
@@ -425,7 +445,9 @@
         "image": "0045_Ruffresia.png",
         "type": "grass",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 1.2,
+        "weight": 18.6,
+        "introduce" : "Trong mỗi bước đi, cánh hoa lớn nhất thế giới rung rinh và gieo rắc một lượng lớn phấn hoa độc."  
     },
     {
         "id": 46,
@@ -433,7 +455,9 @@
         "image": "0046_Paras.png",
         "type": "bug",
         "secondType": "grass",
-        "introduce" : null  
+        "height": 0.3,
+        "weight": 5.4,
+        "introduce" : "Không rõ vì thiếu độ ẩm hay dưỡng chất, mà tại Alola, những cây nấm trên lưng Paras không sinh trưởng tốt cho lắm."  
     },
     {
         "id": 47,
@@ -441,7 +465,9 @@
         "image": "0047_Parasect.png",
         "type": "bug",
         "secondType": "grass",
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 29.5,
+        "introduce" : "Con bọ gần như là đã chết, còn cây nấm trên lưng đã trở thành vật chủ. Nếu nấm rụng, con bọ cũng sẽ ngừng chuyển động."  
     },
     {
         "id": 48,
@@ -449,7 +475,9 @@
         "image": "0048_Kongpang.png",
         "type": "bug",
         "secondType": "poison",
-        "introduce" : null 
+        "height": 1.0,
+        "weight": 30.0,
+        "introduce" : "Để tự vệ, bộ lông mỏng và cứng của Kongpang mọc dài bao phủ toàn thân. Chúng còn sở hữu đôi mắt có thể phát hiện những con mồi siêu nhỏ." 
     },
     {
         "id": 49,
@@ -457,7 +485,9 @@
         "image": "0049_Morphon.png",
         "type": "bug",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 1.5,
+        "weight": 12.5,
+        "introduce" : "Morphon chỉ hoạt động tích cực trong đêm. Chúng thích săn những con côn trùng nhỏ tụ tập dưới ánh đèn đường buổi tối."  
     },
     {
         "id": 50,
@@ -465,7 +495,9 @@
         "image": "0050_Digda.png",
         "type": "ground",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.2,
+        "weight": 0.8,
+        "introduce" : "Vùng đất nó đào qua được cày xới rất tốt và hoàn hảo để canh tác."  
     },
     {
         "id": 51,
@@ -473,7 +505,9 @@
         "image": "0051_Dugtrio.png",
         "type": "ground",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.7,
+        "weight": 33.3,
+        "introduce" : "Là bộ ba Digda siêu hợp lực. Nó có thể gây ra địa chấn khi đào sâu xuống đất 100 km."  
     },
     {
         "id": 52,
@@ -481,7 +515,9 @@
         "image": "0052_Nyasu.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.4,
+        "weight": 4.2,
+        "introduce" : "Thích sưu tầm những vật lấp lánh. Khi có tâm trạng tốt, nó sẽ cho cả huấn luyện viên xem bộ sưu tập của nó."  
     },
     {
         "id": 53,
@@ -489,7 +525,9 @@
         "image": "0053_Persian.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 32.0,
+        "introduce" : "Làm cho loài Pokémon kiêu ngạo này thích bạn quả thực là khó. Khi bị làm phiền, nó sẽ cào bạn đấy."  
     },
     {
         "id": 54,
@@ -497,7 +535,9 @@
         "image": "0054_Koduck.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.8,
+        "weight": 19.6,
+        "introduce" : "Việc vận linh lực khiến loài này bị đau đầu. Vì vậy, chúng thường lơ đễnh và hạn chế hoạt động hết mức có thể."  
     },
     {
         "id": 55,
@@ -505,7 +545,9 @@
         "image": "0055_Golduck.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.7,
+        "weight": 76.6,
+        "introduce" : "Golduck luôn đuổi kịp lũ Pokémon cá, bất luận tụi nó bơi nhanh tới cỡ nào. Chúng chặn đứng con mồi rồi bắt đi."  
     },
     {
         "id": 56,
@@ -513,7 +555,9 @@
         "image": "0056_Mankey.png",
         "type": "fighting",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.5,
+        "weight": 28.0,
+        "introduce" : "Mankey dễ dàng nổi nóng ngay cả với những thứ rất nhỏ nhặt. Bù lại, chúng sống thọ vô cùng nhờ chẳng bao giờ rầu rĩ."  
     },
     {
         "id": 57,
@@ -521,7 +565,9 @@
         "image": "0057_Okorizaru.png",
         "type": "fighting",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 32.0,
+        "introduce" : "Okorizaru không bao giờ tha thứ cho những kẻ dám chọc giận mình, ngay cả khi đã đánh đập họ thân tàn ma dại."  
     },
     {
         "id": 58,
@@ -529,7 +575,9 @@
         "image": "0058_Gardie.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.7,
+        "weight": 19.0,
+        "introduce" : "Gardie bản tính anh dũng, đáng tin cậy, dù kẻ thù to lớn, mạnh mẽ hơn cũng không ngại đối đầu."  
     },
     {
         "id": 59,
@@ -537,7 +585,9 @@
         "image": "0059_Windie.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.9,
+        "weight": 155.0,
+        "introduce" : "Chỉ cần thấy Windie chạy 10.000 km trong một ngày đêm cũng đủ khiến bao người mê mẩn."  
     },
     {
         "id": 60,
@@ -545,7 +595,9 @@
         "image": "0060_Nyoromo.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.6,
+        "weight": 12.4,
+        "introduce" : "Nyoromo rất thích lên cạn bất chấp mọi nguy hiểm. Tuy chỉ lê bước lạch bạch, chúng có thể lao nhanh xuống nước nếu gặp phải kẻ thù."  
     },
     {
         "id": 61,
@@ -553,7 +605,9 @@
         "image": "0061_Nyorozo.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 20.0,
+        "introduce" : "Dù đã có thể sống trên cạn, Nyorozo vẫn dành nhiều thời gian ở dưới nước để săn con mồi ưa thích là các Pokémon cá."  
     },
     {
         "id": 62,
@@ -561,7 +615,9 @@
         "image": "0062_Nyorobon.png",
         "type": "water",
         "secondType": "fighting",
-        "introduce" : null  
+        "height": 1.3,
+        "weight": 5.4,
+        "introduce" : "Nyorobon là một kình ngư lợi hại, ngay cả khi so sánh với các Pokémon hệ Nước khác. Dẫu vậy, chúng sống chủ yếu ở trên cạn."  
     },
     {
         "id": 63,
@@ -569,7 +625,9 @@
         "image": "0063_Casey.png",
         "type": "psychic",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.9,
+        "weight": 19.5,
+        "introduce" : "Chúng có thể sử dụng nhiều loại sức mạnh tâm linh ngay trong lúc ngủ. Vì thế, không tài nào đoán được liệu chúng đang ngủ hay thức." 
     },
     {
         "id": 64,
@@ -577,7 +635,9 @@
         "image": "0064_Yungerer.png",
         "type": "psychic",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.3,
+        "weight": 56.5,
+        "introduce" : "Chúng chăm chú nhìn vào chiếc muỗng bạc nhằm khuếch đại sức mạnh tâm linh của mình. Còn muỗng vàng thì dường như vô tác dụng."  
     },
     {
         "id": 65,
@@ -585,7 +645,9 @@
         "image": "0065_Foodin.png",
         "type": "psychic",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.5,
+        "weight": 48.0,
+        "introduce" : "Foodin tạo ra những chiếc muỗng bằng sức mạnh tâm linh. Mỗi chiếc đều là nguyên bản độc nhất vô nhị trên toàn thế giới." 
     },
     {
         "id": 66,
@@ -593,7 +655,9 @@
         "image": "0066_Wanriky.png",
         "type": "fighting",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.8,
+        "weight": 19.5,
+        "introduce" : "Toàn thân làm từ các múi cơ. Dù chỉ có kích thước của một đứa trẻ, nó có thể nâng đến 100 người lớn."  
     },
     {
         "id": 67,
@@ -601,7 +665,9 @@
         "image": "0067_Goriky.png",
         "type": "fighting",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.5,
+        "weight": 70.5,
+        "introduce" : "Thân thể cơ bắp của nó mạnh đến nỗi nó phải đeo đai lưu trữ năng lượng để kiểm soát sức mạnh của mình."  
     },
     {
         "id": 68,
@@ -609,7 +675,9 @@
         "image": "0068_Kairiky.png",
         "type": "fighting",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.6,
+        "weight": 130.0,
+        "introduce" : "Vung bốn cánh tay nhanh như chớp để giáng cho đối thủ những cú đấm và cú móc từ mọi góc độ."  
     },
     {
         "id": 69,
@@ -617,7 +685,9 @@
         "image": "0069_Madatsubomi.png",
         "type": "grass",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 0.7,
+        "weight": 4.0,
+        "introduce" : "Nhờ thân thể mảnh khảnh và linh hoạt, chúng dễ dàng uốn mình tránh né mọi loại đòn tấn công. Chất dịch từ miệng chúng hòa tan được cả sắt thép."  
     },
     {
         "id": 70,
@@ -625,7 +695,9 @@
         "image": "0070_Utsudon.png",
         "type": "grass",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 6.4,
+        "introduce" : "Ban đêm, chúng dùng cái móc đằng sau để treo mình lên cây và ngủ. Nếu tư thế ngủ có vấn đề, chúng sẽ thức dậy ở dưới đất vào sáng mai." 
     },
     {
         "id": 71,
@@ -633,7 +705,9 @@
         "image": "0071_Utsubot.png",
         "type": "grass",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 1.7,
+        "weight": 15.5,
+        "introduce" : "Chúng huơ sợi dây leo dài trên đầu để giả làm con vật nhử mồi. Kẻ nào dại dột tới gần sẽ lập tức bị chúng nuốt chửng."  
     },
     {
         "id": 72,
@@ -641,7 +715,9 @@
         "image": "0072_Menokurage.png",
         "type": "water",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 0.9,
+        "weight": 45.5,
+        "introduce" : "Chúng thả mình trôi theo dòng biển để tìm mồi. Thỉnh thoảng, các xúc tu độc của chúng bị đứt, nhưng sau đó sẽ mọc lại ngay."  
     },
     {
         "id": 73,
@@ -649,7 +725,9 @@
         "image": "0073_Dokukurage.png",
         "type": "water",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 1.6,
+        "weight": 55.0,
+        "introduce" : "Từ các viên ngọc đỏ, chúng phát ra sóng siêu âm làm con mồi suy yếu, sau đó vươn 80 chiếc xúc tu tóm gọn."  
     },
     {
         "id": 74,
@@ -657,7 +735,9 @@
         "image": "0074_Isitsubute.png",
         "type": "rock",
         "secondType": "ground",
-        "introduce" : null  
+        "height": 0.4,
+        "weight": 20.0,
+        "introduce" : "Những con Isitsubute cao tuổi thường có cơ thể bị mài mòn nhẵn nhụi đến mức tròn trịa, còn tính cách thì điềm đạm và trầm tĩnh."  
     },
     {
         "id": 75,
@@ -665,7 +745,9 @@
         "image": "0075_Golone.png",
         "type": "rock",
         "secondType": "ground",
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 105.0,
+        "introduce" : "Mỗi lần leo dốc, Golone thường nhắm tới nơi cao nhất. Khi lên tới đỉnh rồi, chúng lại lăn trở xuống điểm xuất phát."  
     },
     {
         "id": 76,
@@ -673,7 +755,9 @@
         "image": "0076_Golonya.png",
         "type": "rock",
         "secondType": "ground",
-        "introduce" : null  
+        "height": 1.4,
+        "weight": 300.0,
+        "introduce" : "Chúng sẽ ngừng thay vỏ khi về già. Vì vậy, những con Golonya thượng thọ luôn có lớp vỏ phủ đầy rêu xanh."  
     },
     {
         "id": 77,
@@ -681,7 +765,9 @@
         "image": "0077_Ponyta.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 30.0,
+        "introduce" : "Khi mới sinh ra, Ponyta chạy rất kém. Khi chạy cùng đồng loại, chân nó sẽ phát triển mạnh hơn."  
     },
     {
         "id": 78,
@@ -689,7 +775,9 @@
         "image": "0078_Gallop.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.7,
+        "weight": 95.0,
+        "introduce" : "Với bộ lông bờm cháy phừng phực, Gallop phi nước đại qua đồng cỏ mênh mông với tốc độ 240 km một giờ."  
     },
     {
         "id": 79,
@@ -697,7 +785,9 @@
         "image": "0079_Yadon.png",
         "type": "water",
         "secondType": "psychic",
-        "introduce" : null  
+        "height": 1.2,
+        "weight": 36.0,
+        "introduce" : "Xưa nay, có không ít người tin rằng, trời sẽ mưa mỗi khi Yadon ngáp. Vì vậy, loài này được thờ phụng ở nhiều nơi."  
     },
     {
         "id": 80,
@@ -705,7 +795,9 @@
         "image": "0080_Yadoran.png",
         "type": "water",
         "secondType": "psychic",
-        "introduce" : null  
+        "height": 1.6,
+        "weight": 78.5,
+        "introduce" : "Loài này mơ mơ màng màng cả ngày dài. Nếu cái đuôi có gắn Shellder bị rụng, chúng sẽ trở lại làm Yadon."  
     },
     {
         "id": 81,
@@ -713,7 +805,9 @@
         "image": "0081_Coil.png",
         "type": "electric",
         "secondType": "steel",
-        "introduce" : null  
+        "height": 0.3,
+        "weight": 6.0,
+        "introduce" : "Coil là nguyên nhân thường xuyên của các vụ mất điện. Để đối phó, nhiều nhà máy điện cho phát loại sóng điện từ mà chúng ghét."  
     },
     {
         "id": 82,
@@ -721,7 +815,9 @@
         "image": "0082_Rarecoil.png",
         "type": "electric",
         "secondType": "steel",
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 60.0,
+        "introduce" : "Rarecoil phát ra những luồng sóng điện bí ẩn. Vì vậy, các thiết bị máy móc tinh vi quanh khu vực chúng sống thường bị hỏng hóc."  
     },
     {
         "id": 83,
@@ -729,7 +825,9 @@
         "image": "0083_Kamonegi.png",
         "type": "normal",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 0.8,
+        "weight": 15.0,
+        "introduce" : "Kamonegi dùng cọng hành bén như dao đem theo ở cánh để chặt chém đối thủ, lúc khẩn cấp thì có thể làm thức ăn luôn."  
     },
     {
         "id": 84,
@@ -737,7 +835,9 @@
         "image": "0084_Dodo.png",
         "type": "normal",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 1.4,
+        "weight": 39.2,
+        "introduce" : "Hai đầu của Dodo không bao giờ ngủ cùng lần. Nếu một đầu ngủ, đầu kia sẽ thức để canh gác để không bị kẻ địch tấn công."  
     },
     {
         "id": 85,
@@ -745,7 +845,9 @@
         "image": "0085_Dodorio.png",
         "type": "normal",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 1.8,
+        "weight": 85.2,
+        "introduce" : "Những khi cảnh giác cao độ, ba cái đầu của Dodorio lại nhìn về ba hướng khác nhau. Chớ dại mà tới gần kẻo bị chúng mổ cho đấy!"  
     },
     {
         "id": 86,
@@ -753,7 +855,9 @@
         "image": "0086_Pawou.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.1,
+        "weight": 90.0,
+        "introduce" : "Việc loài này xuất hiện ở Alola là một bí ẩn, vì bấy lâu nay, người ta vẫn tưởng rằng chúng chỉ sống ở vùng biển lạnh."  
     },
     {
         "id": 87,
@@ -761,7 +865,9 @@
         "image": "0087_Jugon.png",
         "type": "water",
         "secondType": "ice",
-        "introduce" : null  
+        "height": 1.7,
+        "weight": 120.0,
+        "introduce" : "Loài Pokémon này có thể bơi với vận tốc 8 hải lí mỗi giờ. Chúng săn mồi ngoài biển và đặc biết thích ăn Yowashi."  
     },
     {
         "id": 88,
@@ -769,7 +875,9 @@
         "image": "0088_Betbeter.png",
         "type": "poison",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.9,
+        "weight": 30.0,
+        "introduce" : "Betbeter được sinh ra từ lớp bùn thải dưới đáy biển. Ở môi trường vô trùng, chúng sẽ chết vì vi khuẩn trong người không thể sản sinh."  
     },
     {
         "id": 89,
@@ -777,7 +885,9 @@
         "image": "0089_Betbeton.png",
         "type": "poison",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.2,
+        "weight": 30.0,
+        "introduce" : "Số lượng cá thể loài này suy giảm mạnh vì nguồn thức ăn của chúng ngày càng ít ỏi. Nhiều hồ bùn nhân tạo thải đang được xây lên để bảo tồn Betbeton."  
     },
     {
         "id": 90,
@@ -785,7 +895,9 @@
         "image": "0090_Shellder.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.3,
+        "weight": 4.0,
+        "introduce" : "Shellder bơi ngược về phía sau bằng cách đóng mở 2 vỏ sò. Tốc độ nhanh kinh ngạc."  
     },
     {
         "id": 91,
@@ -793,7 +905,9 @@
         "image": "0091_Parshen.png",
         "type": "water",
         "secondType": "ice",
-        "introduce" : null  
+        "height": 1.5,
+        "weight": 132.5,
+        "introduce" : "Parschen sở hữu một bộ vỏ cứng phi thường, dù bom nổ cũng không làm nó sứt mẻ, tuy vậy nó sẽ mở ra khi trong trạng thái tấn công."  
     },
     {
         "id": 92,
@@ -801,7 +915,9 @@
         "image": "0092_Ghos.png",
         "type": "ghost",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 1.3,
+        "weight": 0.1,
+        "introduce" : "Được sinh ra từ khí ga. Nếu bị bao phủ bởi thân thể chứa khí độc này, ai cũng sẽ ngất xỉu."  
     },
     {
         "id": 93,
@@ -809,7 +925,9 @@
         "image": "0093_Ghost.png",
         "type": "ghost",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 1.6,
+        "weight": 0.1,
+        "introduce" : "Khi bị chiếc lưỡi ga của Ghost liếm phải, thân thể sẽ co giật liên tục cho đến khi chết."  
     },
     {
         "id": 94,
@@ -817,7 +935,9 @@
         "image": "0094_Gangar.png",
         "type": "ghost",
         "secondType": "poison",
-        "introduce" : null  
+        "height": 1.5,
+        "weight": 40.5,
+        "introduce" : "Trong đêm trăng rằm, nếu cái bóng tự di chuyển và tự cười, chắc chắn đó là do Gangar." 
     },
     {
         "id": 95,
@@ -825,7 +945,9 @@
         "image": "0095_Iwark.png",
         "type": "rock",
         "secondType": "ground",
-        "introduce" : null  
+        "height": 8.8,
+        "weight": 210.0,
+        "introduce" : "Vừa đào đất vừa hấp thụ những vật thể cứng khác nhau, để tạo ra một cơ thể cứng cáp."  
     },
     {
         "id": 96,
@@ -833,7 +955,9 @@
         "image": "0096_Sleepe.png",
         "type": "psychic",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 32.4,
+        "introduce" : "Chúng thường quanh quẩn ở các trung tâm giải trí, tìm cách đánh chén những giấc mơ hạnh phúc của lũ trẻ sau một ngày vui chơi."  
     },
     {
         "id": 97,
@@ -1944,6 +2068,406 @@
         "name": "Doble",
         "image": "0235_Doble.png",
         "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 236,
+        "name": "Balkie",
+        "image": "0236_Balkie.png",
+        "type": "fighting",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 237,
+        "name": "Kapoerer",
+        "image": "0237_Kapoerer.png",
+        "type": "fighting",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 238,
+        "name": "Muchul",
+        "image": "0238_Muchul.png",
+        "type": "ice",
+        "secondType": "psychic",
+        "introduce" : null  
+    },
+    {
+        "id": 239,
+        "name": "Elekid",
+        "image": "0239_Elekid.png",
+        "type": "electric",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 240,
+        "name": "Buby",
+        "image": "0240_Buby.png",
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 241,
+        "name": "Miltank",
+        "image": "0241_Miltank.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 242,
+        "name": "Happinas",
+        "image": "0242_Happinas.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 243,
+        "name": "Raikou",
+        "image": "0243_Raikou.png",
+        "type": "electric",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 244,
+        "name": "Entei",
+        "image": "0244_Entei.png",
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 245,
+        "name": "Suicune",
+        "image": "0245_Suicune.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 246,
+        "name": "Yogiras",
+        "image": "0246_Yogiras.png",
+        "type": "rock",
+        "secondType": "ground",
+        "introduce" : null  
+    },
+    {
+        "id": 247,
+        "name": "Sanagiras",
+        "image": "0247_Sanagiras.png",
+        "type": "rock",
+        "secondType": "ground",
+        "introduce" : null  
+    },
+    {
+        "id": 248,
+        "name": "Bangirasu",
+        "image": "0248_Bangirasu.png",
+        "type": "rock",
+        "secondType": "dark",
+        "introduce" : null  
+    },
+    {
+        "id": 249,
+        "name": "Lugia",
+        "image": "0249_Lugia.png",
+        "type": "psychic",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 250,
+        "name": "Houou",
+        "image": "0250_Houou.png",
+        "type": "fire",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 251,
+        "name": "Celebi",
+        "image": "0251_Celebi.png",
+        "type": "psychic",
+        "secondType": "grass",
+        "introduce" : null  
+    },
+    {
+        "id": 252,
+        "name": "Kimori",
+        "image": "0252_Kimori.png",
+        "type": "grass",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 253,
+        "name": "Juptile",
+        "image": "0253_Juptile.png",
+        "type": "grass",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 254,
+        "name": "Jukain",
+        "image": "0254_Jukain.png",
+        "type": "grass",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 255,
+        "name": "Achamo",
+        "image": "0255_Achamo.png",
+        "type": "fire",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 256,
+        "name": "Wakashamo",
+        "image": "0256_Wakashamo.png",
+        "type": "fire",
+        "secondType": "fighting",
+        "introduce" : null  
+    },
+    {
+        "id": 257,
+        "name": "Burshamo",
+        "image": "0257_Burshamo.png",
+        "type": "fire",
+        "secondType": "fighting",
+        "introduce" : null  
+    },
+    {
+        "id": 258,
+        "name": "Mizugrou",
+        "image": "0258_Mizugrou.png",
+        "type": "water",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 259,
+        "name": "Numacraw",
+        "image": "0259_Numacraw.png",
+        "type": "water",
+        "secondType": "ground",
+        "introduce" : null  
+    },
+    {
+        "id": 260,
+        "name": "Laglarge",
+        "image": "0260_Laglarge.png",
+        "type": "water",
+        "secondType": "ground",
+        "introduce" : null  
+    },
+    {
+        "id": 261,
+        "name": "Pochiena",
+        "image": "0261_Pochiena.png",
+        "type": "dark",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 262,
+        "name": "Graena",
+        "image": "0262_Graena.png",
+        "type": "dark",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 263,
+        "name": "Zigzagma",
+        "image": "0263_Zigzagma.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 264,
+        "name": "Massuguma",
+        "image": "0264_Massuguma.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 265,
+        "name": "Kemusso",
+        "image": "0265_Kemusso.png",
+        "type": "bug",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 266,
+        "name": "Karasalis",
+        "image": "0266_Karasalis.png",
+        "type": "bug",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 267,
+        "name": "Agehunt",
+        "image": "0267_Agehunt.png",
+        "type": "bug",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 268,
+        "name": "Mayuld",
+        "image": "0268_Mayuld.png",
+        "type": "bug",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 269,
+        "name": "Dokucale",
+        "image": "0269_Dokucale.png",
+        "type": "bug",
+        "secondType": "poison",
+        "introduce" : null  
+    },
+    {
+        "id": 270,
+        "name": "Hassboh",
+        "image": "0270_Hassboh.png",
+        "type": "water",
+        "secondType": "grass",
+        "introduce" : null  
+    },
+    {
+        "id": 271,
+        "name": "Hasubrero",
+        "image": "0271_Hasubrero.png",
+        "type": "water",
+        "secondType": "grass",
+        "introduce" : null  
+    },
+    {
+        "id": 272,
+        "name": "Runpappa",
+        "image": "0272_Runpappa.png",
+        "type": "water",
+        "secondType": "grass",
+        "introduce" : null  
+    },
+    {
+        "id": 273,
+        "name": "Taneboh",
+        "image": "0273_Taneboh.png",
+        "type": "grass",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 274,
+        "name": "Konohana",
+        "image": "0274_Konohana.png",
+        "type": "grass",
+        "secondType": "dark",
+        "introduce" : null  
+    },
+    {
+        "id": 275,
+        "name": "Dirteng",
+        "image": "0275_Dirteng.png",
+        "type": "grass",
+        "secondType": "dark",
+        "introduce" : null  
+    },
+    {
+        "id": 276,
+        "name": "Subame",
+        "image": "0276_Subame.png",
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 277,
+        "name": "Ohsubame",
+        "image": "0277_Ohsubame.png",
+        "type": "normal",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 278,
+        "name": "Camome",
+        "image": "0278_Camome.png",
+        "type": "water",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 279,
+        "name": "Peplipper",
+        "image": "0279_Peplipper.png",
+        "type": "water",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 280,
+        "name": "Ralts",
+        "image": "0280_Ralts.png",
+        "type": "psychic",
+        "secondType": "fairy",
+        "introduce" : null  
+    },
+    {
+        "id": 281,
+        "name": "Kirlia",
+        "image": "0281_Kirlia.png",
+        "type": "psychic",
+        "secondType": "fairy",
+        "introduce" : null  
+    },
+    {
+        "id": 282,
+        "name": "Sirnight",
+        "image": "0282_Sirnight.png",
+        "type": "psychic",
+        "secondType": "fairy",
+        "introduce" : null  
+    },
+    {
+        "id": 283,
+        "name": "Ametama",
+        "image": "0283_Ametama.png",
+        "type": "bug",
+        "secondType": "water",
+        "introduce" : null  
+    },
+    {
+        "id": 284,
+        "name": "Amemoth",
+        "image": "0284_Amemoth.png",
+        "type": "bug",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 285,
+        "name": "Kinococo",
+        "image": "0285_Kinococo.png",
+        "type": "grass",
         "secondType": null,
         "introduce" : null  
     }
