@@ -1,15 +1,15 @@
-function Blog() {
+function Blog({data}) {
     return (
         <div className="blog__card">
-            <a href="/">
+            <a href="/post">
                 <div className="blog__image">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoOc1Coj7BAaGeG-efcXELoRg1PsG_kVlhEg&usqp=CAU" alt="" />
+                    <img src={ process.env.PUBLIC_URL + '/img/blog/' + data.thumbnail} alt={data.title} />
                 </div>
                 <div className="blog__content">
-                    <div className="blog__time">Th2 18/2/2023  - HauNT</div>
-                    <div className="blog__title">What a pokemon in the word</div>
+                    <div className="blog__time">{Intl.DateTimeFormat("vi").format(new Date(data.created_at))}  - {data.created_by}</div>
+                    <div className="blog__title">{data.title}</div>
                     <div className="blog__description">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, cupiditate eos nam vitae libero quod amet dolorum, officia a error ipsam, quam necessitatibus. Ipsum nostrum suscipit molestias minima accusantium porro?
+                        {data.abstract}
                     </div>
                 </div>
             </a>
