@@ -62,6 +62,11 @@
     transition: all .5s ease-in-out;
 }
 
+.content{
+    margin: 80px 0 30px 0;
+    min-height: 75vh;
+}
+
 .pokemon-list{
     display: flex;
     flex-wrap: wrap;
