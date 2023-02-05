@@ -128,6 +128,25 @@
     margin: 30px 20px 10px 20px;
 }
 
+.footer{
+    padding: 20px 0;
+    font-size: 14px;
+    transition: all 0.3s;
+    border-top: 1px solid #cddfff;
+}
+
+.footer__copyright {
+    text-align: center;
+    color: #012970;
+}
+
+.footer__credits {
+    padding-top: 5px;
+    text-align: center;
+    font-size: 13px;
+    color: #012970;
+}
+
 @media  screen and (max-width: 768px) {
     .header__logo{
         float: none;

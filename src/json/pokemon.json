@@ -965,7 +965,9 @@
         "image": "0097_Sleeper.png",
         "type": "psychic",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.6,
+        "weight": 75.6,
+        "introduce" : "Ở Alola, Sleeper hiếm khi hại người, mà nhắm vào mục tiêu chính là lũ Nekkoala."  
     },
     {
         "id": 98,
@@ -973,7 +975,9 @@
         "image": "0098_Crab.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.4,
+        "weight": 6.5,
+        "introduce" : "Có thể tìm thấy Crab ở gần biển. Chiếc càng to của nó sẽ mọc lại cho dù bị ngắt đi."  
     },
     {
         "id": 99,
@@ -981,7 +985,9 @@
         "image": "0099_Kingler.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.3,
+        "weight": 60.0,
+        "introduce" : "Chiếc càng cứng của nó có sức mạnh 1 vạn mã lực, nhưng quá to nên chúng di chuyển chậm chạp."  
     },
     {
         "id": 100,
@@ -989,7 +995,9 @@
         "image": "0100_Biriridama.png",
         "type": "electric",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.5,
+        "weight": 10.4,
+        "introduce" : "Biriridama được phát hiện lần đầu tại một nhà máy sản xuất Bóng Poké. Đến nay, mối liên hệ giữa việc ấy và việc chúng có ngoại hình rất giống Bóng Poké vẫn chưa được làm sáng tỏ."  
     },
     {
         "id": 101,
@@ -997,7 +1005,9 @@
         "image": "0101_Marumine.png",
         "type": "electric",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.2,
+        "weight": 66.6,
+        "introduce" : "Marumine ăn điện trong không khí. Vào những hôm trời giông, Marumine sẽ nổ tung ở khắp mọi nơi vì ăn phải quá nhiều điện." 
     },
     {
         "id": 102,
@@ -1005,7 +1015,9 @@
         "image": "0102_Tamatama.png",
         "type": "grass",
         "secondType": "psychic",
-        "introduce" : null  
+        "height": 0.4,
+        "weight": 2.5,
+        "introduce" : "Sáu bộ phận ghép lại tạo nên một cá thể loài Pokémon này. Lỡ có một bộ phận lạc mất thì sáng hôm sau sẽ lại đủ cả sáu."  
     },
     {
         "id": 103,
@@ -1013,7 +1025,9 @@
         "image": "0103_Nassy.png",
         "type": "grass",
         "secondType": "psychic",
-        "introduce" : null  
+        "height": 2.0,
+        "weight": 120.0,
+        "introduce" : "Chúng tấn công đối phương bằng sức mạnh tâm linh. Mỗi đầu phóng ra một luồng năng lượng riêng, nhân ba sức mạnh tổng lực."  
     },
     {
         "id": 104,
@@ -1021,7 +1035,9 @@
         "image": "0104_Karakara.png",
         "type": "ground",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.4,
+        "weight": 6.5,
+        "introduce" : "Đêm đêm, chúng lớn tiếng khóc thương cho người mẹ quá cố của mình. Nào ngờ đâu, tiếng khóc ấy lại thu hút lũ thiên địch Varuzina tìm đến."  
     },
     {
         "id": 105,
@@ -1029,7 +1045,9 @@
         "image": "0105_Garagara.png",
         "type": "ground",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 45.0,
+        "introduce" : "Chúng chọi lũ Varuzina rơi xuống đất bằng chiêu ném xương. Người ta thường nghĩ, chúng làm vậy để báo thù cho bố mẹ."  
     },
     {
         "id": 106,
@@ -1037,7 +1055,9 @@
         "image": "0106_Sawamular.png",
         "type": "fighting",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.5,
+        "weight": 49.8,
+        "introduce" : "Có khả năng thăng bằng xuất sắc. Một gã đáng gờm có thể ra đòn đá liên tục dù đang ở tư thế nào."  
     },
     {
         "id": 107,
@@ -1045,7 +1065,9 @@
         "image": "0107_Ebiwalar.png",
         "type": "fighting",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.4,
+        "weight": 50.2,
+        "introduce" : "Có cú đấm xé toạc không khí. Tốc độ nhanh đến nỗi sượt qua cũng đủ gây bỏng."  
     },
     {
         "id": 108,
@@ -1053,7 +1075,9 @@
         "image": "0108_Beroringa.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.2,
+        "weight": 65.5,
+        "introduce" : "Chúng đưa lưỡi liếm khắp mọi vật để thăm dò xung quanh. Nếu bạn bị liếm trúng, hãy mau chóng rửa sạch kẻo nổi mẩn đấy!"  
     },
     {
         "id": 109,
@@ -1061,7 +1085,9 @@
         "image": "0109_Dogars.png",
         "type": "poison",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.6,
+        "weight": 1.0,
+        "introduce" : "Thân thể toàn khí độc, Dogars thường đến bãi rác để tìm mùi rác từ đồ tươi phân hủy."  
     },
     {
         "id": 110,
@@ -1069,7 +1095,9 @@
         "image": "0110_Matadogas.png",
         "type": "poison",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.2,
+        "weight": 9.5,
+        "introduce" : "Matadogas trộn khí ga từ 2 cơ thể lại. Nghe nói ngày xưa ở Galar có thể tìm thấy nó ở bất cứ đâu."  
     },
     {
         "id": 111,
@@ -1077,7 +1105,9 @@
         "image": "0111_Sihorn.png",
         "type": "ground",
         "secondType": "rock",
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 115.0,
+        "introduce" : "Cái đầu không quá thông minh nhưng rất mạnh, chỉ bằng một cú húc cũng làm rung chuyển tòa cao ốc."  
     },
     {
         "id": 112,
@@ -1085,7 +1115,9 @@
         "image": "0112_Sidon.png",
         "type": "ground",
         "secondType": "rock",
-        "introduce" : null  
+        "height": 1.9,
+        "weight": 120.0,
+        "introduce" : "Sau khi tiến hóa, nó bắt đầu đứng bằng chân sau. Nó có thể đục lỗ trên đá bằng chiếc sừng của mình."  
     },
     {
         "id": 113,
@@ -1093,7 +1125,9 @@
         "image": "0113_Lucky.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.1,
+        "weight": 34.6,
+        "introduce" : "Lucky đã học được cách chạy trốn cực nhanh, có lẽ vì muốn bảo vệ quả trứng thơm ngon, giàu dưỡng chất của mình khỏi những loài Pokémon thèm muốn."  
     },
     {
         "id": 114,
@@ -1101,7 +1135,9 @@
         "image": "0114_Monjara.png",
         "type": "grass",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 35.0,
+        "introduce" : "Để thoát thân, chúng có thể tự làm đứt những sợi dây leo bị kẻ địch túm mà không cảm thấy đau. Ngay hôm sau, dây leo mới sẽ mọc lên thế chỗ."  
     },
     {
         "id": 115,
@@ -1109,7 +1145,9 @@
         "image": "0115_Garura.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 2.2,
+        "weight": 80.0,
+        "introduce" : "Garura giữ con trong túi bụng để bảo vệ. Nếu kẻ nào dám động vào con non, chúng sẽ ra tay hạ gục không chút khoan nhượng."  
     },
     {
         "id": 116,
@@ -1117,7 +1155,9 @@
         "image": "0116_Tattu.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.4,
+        "weight": 8.0,
+        "introduce" : "Tattu ăn côn trùng nhỏ và rêu bám trên đá. Nếu hải lưu chảy quá nhanh, chúng sẽ dùng đuôi bám vào đá hoặc san hô để tránh bị cuốn trôi."  
     },
     {
         "id": 117,
@@ -1125,7 +1165,9 @@
         "image": "0117_Seadra.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.2,
+        "weight": 25.0,
+        "introduce" : "Chúng luồn vào giữa các nhánh san hô và ngủ. Những người khai thác san hô bất cẩn thường bị gai độc của Seadra đâm phải."  
     },
     {
         "id": 118,
@@ -1133,7 +1175,9 @@
         "image": "0118_Tosakinto.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.6,
+        "weight": 15.0,
+        "introduce" : "Lưng, ngực và vây của Tosakinto uốn lượn thanh thoát, vì thế người ta gọi nó là vũ công nước."  
     },
     {
         "id": 119,
@@ -1141,7 +1185,9 @@
         "image": "0119_Azumao.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.3,
+        "weight": 39.0,
+        "introduce" : "Khi trời sang thu, cơ thể nó tích trữ mỡ và chuyển thành màu sắc rất đẹp mắt để mời gọi bạn tình."  
     },
     {
         "id": 120,
@@ -1149,7 +1195,9 @@
         "image": "0120_Hitodeman.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.8,
+        "weight": 34.5,
+        "introduce" : "Cổ tích ở nhiều nơi kể rằng, Hitodeman được sinh ra từ những hạt bụi sao rơi xuống đại dương."  
     },
     {
         "id": 121,
@@ -1157,7 +1205,9 @@
         "image": "0121_Starmie.png",
         "type": "water",
         "secondType": "psychic",
-        "introduce" : null  
+        "height": 1.1,
+        "weight": 80.0,
+        "introduce" : "Cái lõi sáng lấp lánh của Starmie được mệnh danh là bảo thạch của biển. Nhiều kẻ dùng chúng làm trang sức cao cấp rồi bán ở các khu chợ đen."  
     },
     {
         "id": 122,
@@ -1165,7 +1215,9 @@
         "image": "0122_Barrierd.png",
         "type": "psychic",
         "secondType": "fairy",
-        "introduce" : null  
+        "height": 1.3,
+        "weight": 54.5,
+        "introduce" : "Nhiều học giả cho rằng nó phát triển bàn tay to là để diễn kịch câm."  
     },
     {
         "id": 123,
@@ -1173,7 +1225,9 @@
         "image": "0123_Strike.png",
         "type": "bug",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 1.5,
+        "weight": 56.0,
+        "introduce" : "Chúng không chỉ dùng cặp lưỡi hái sắc bén làm vũ khí, mà còn để sơ chế khéo léo con mồi trước khi ăn."  
     },
     {
         "id": 124,
@@ -1181,7 +1235,9 @@
         "image": "0124_Rougela.png",
         "type": "ice",
         "secondType": "psychic",
-        "introduce" : null  
+        "height": 1.4,
+        "weight": 40.6,
+        "introduce" : "Rougela lắc hông theo nhịp điệu của riêng mình. Các cá thể sống tại Alola sở hữu điệu nhảy chuẩn xác đến tuyệt vời."  
     },
     {
         "id": 125,
@@ -1189,7 +1245,9 @@
         "image": "0125_Eleboo.png",
         "type": "electric",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.1,
+        "weight": 30.0,
+        "introduce" : "Điện năng tràn ngập cơ thể loài này. Trước khi tung đấm, chúng quanh tròn cánh tay thật nhiều vòng để tích điện gia tăng uy lực."  
     },
     {
         "id": 126,
@@ -1197,7 +1255,9 @@
         "image": "0126_Boomer.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.3,
+        "weight": 44.5,
+        "introduce" : "Toàn thân loài này bốc cháy đỏ rực. Khi chúng thở, nhiệt độ gia tăng. Khi chúng hắt hơi, lửa bắn tung tóe!"  
     },
     {
         "id": 127,
@@ -1205,7 +1265,9 @@
         "image": "0127_Kailios.png",
         "type": "bug",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.5,
+        "weight": 55.0,
+        "introduce" : "Kailios thường xuyên tranh chấp lãnh thổ với lũ Kuwaganon. Vì lí do nào đấy, tại Alola, chúng rất thân với loài Heracros."  
     },
     {
         "id": 128,
@@ -1213,7 +1275,9 @@
         "image": "0128_Kentauros.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.4,
+        "weight": 88.4,
+        "introduce" : "Kentauros sống theo đàn, trong đó, con nào sở hữu cặp sừng dài, lớn và nhiều sẹo nhất chính là thủ lĩnh."  
     },
     {
         "id": 129,
@@ -1221,7 +1285,9 @@
         "image": "0129_Koiking.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.9,
+        "weight": 10.0,
+        "introduce" : "Gần như không có cả sức lực lẫn tốc độ. Loài Pokémon thê thảm, yếu ớt nhất thế giới."  
     },
     {
         "id": 130,
@@ -1229,7 +1295,9 @@
         "image": "0130_Gyarados.png",
         "type": "water",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 6.5,
+        "weight": 235.0,
+        "introduce" : "Gyarados bản tính siêu hung bạo. Chùm Tia Công Phá bắn ra từ miệng nó thiêu cháy mọi thứ."  
     },
     {
         "id": 131,
@@ -1237,7 +1305,9 @@
         "image": "0131_Lapras.png",
         "type": "water",
         "secondType": "ice",
-        "introduce" : null  
+        "height": 2.5,
+        "weight": 220.0,
+        "introduce" : "Lapras hiền hòa, thông thái. Nó vừa bơi trên mặt biển vừa cất lên khúc ca tươi đẹp."  
     },
     {
         "id": 132,
@@ -1245,7 +1315,9 @@
         "image": "0132_Metamon.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.3,
+        "weight": 4.0,
+        "introduce" : "Nó tái cấu trúc tế bào toàn thân để biến thành giống hệt thứ nó thấy. Khi hết sức mạnh, nó sẽ quay lại như cũ."  
     },
     {
         "id": 133,
@@ -1253,7 +1325,9 @@
         "image": "0133_Eevui.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.3,
+        "weight": 6.5,
+        "introduce" : "Có năng lực thay đổi thành phần trong cơ thể cho hợp với môi trường xung quanh."  
     },
     {
         "id": 134,
@@ -1261,7 +1335,9 @@
         "image": "0134_Showers.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 29.0,
+        "introduce" : "Khi vây của Showers rung động, đó là dấu hiệu cho thấy mưa sắp đến trong vài giờ nữa."  
     },
     {
         "id": 135,
@@ -1269,7 +1345,9 @@
         "image": "0135_Thunders.png",
         "type": "electric",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.8,
+        "weight": 24.5,
+        "introduce" : "Khi giận dữ hay khó chịu, lông toàn thân của nó sẽ dựng ngược như kim và đâm vào đối phương."  
     },
     {
         "id": 136,
@@ -1277,7 +1355,9 @@
         "image": "0136_Booster.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.9,
+        "weight": 25.0,
+        "introduce" : "Sau khi đã trữ đủ nhiệt trong thân, thân nhiệt Booster có thể lên đến tối đa 900 độ."  
     },
     {
         "id": 137,
@@ -1285,7 +1365,9 @@
         "image": "0137_Porygon.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.8,
+        "weight": 36.5,
+        "introduce" : "Loài Pokémon này được tạo ra bằng khoa học kĩ thuật tối tân của 20 năm về trước, nên hiện tại, có nhiều bộ phận đã trở nên lỗi thời."  
     },
     {
         "id": 138,
@@ -1293,7 +1375,9 @@
         "image": "0138_Omnite.png",
         "type": "rock",
         "secondType": "water",
-        "introduce" : null  
+        "height": 0.4,
+        "weight": 7.5,
+        "introduce" : "Chúng từng sống dưới biển thời cổ đại. Vì hóa thạch Omnite thường xuất hiện những vết răng Arkeos, nên có thể, chúng vốn là con mồi của lũ Pokémon chim này."  
     },
     {
         "id": 139,
@@ -1301,7 +1385,9 @@
         "image": "0139_Omstar.png",
         "type": "rock",
         "secondType": "water",
-        "introduce" : null  
+        "height": 1.0,
+        "weight": 35.0,
+        "introduce" : "Theo phỏng đoán, cái vỏ nặng nề chính là nguyên nhân khiến Omstar tuyệt chủng. Chúng có vẻ là tổ tiên của loài Okutank."  
     },
     {
         "id": 140,
@@ -1309,7 +1395,9 @@
         "image": "0140_Kabuto.png",
         "type": "rock",
         "secondType": "water",
-        "introduce" : null  
+        "height": 0.5,
+        "weight": 11.5,
+        "introduce" : "Loài Pokémon này từng phát triển hưng thịnh 300 triệu năm trước. Theo lời kể, ở một nơi nào đó, những cá thể hiếm hoi vẫn còn sống sót."  
     },
     {
         "id": 141,
@@ -1317,7 +1405,9 @@
         "image": "0141_Kabutops.png",
         "type": "rock",
         "secondType": "water",
-        "introduce" : null  
+        "height": 1.3,
+        "weight": 40.5,
+        "introduce" : "Cơ thể loài này đã bắt đầu biến đổi để có thể hoạt động trên cạn. Nhưng có vẻ, chúng đã tuyệt chủng trước khi kịp thích ứng."  
     },
     {
         "id": 142,
@@ -1325,7 +1415,9 @@
         "image": "0142_Ptera.png",
         "type": "rock",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 1.8,
+        "weight": 59.0,
+        "introduce" : "Loài này được hồi sinh từ ADN tìm thấy trong hổ phách. Chúng hung bạo ngoài dự đoán và đã gây ra một số thương vong về người."  
     },
     {
         "id": 143,
@@ -1333,7 +1425,9 @@
         "image": "0143_Kabigon.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 2.0,
+        "weight": 460.0,
+        "introduce" : "Một ngày chưa ăn đủ 400 kg thức ăn thì nó sẽ không thỏa mãn. Ăn xong nó lăn quay ra ngủ."  
     },
     {
         "id": 144,
@@ -1341,7 +1435,9 @@
         "image": "0144_Freezer.png",
         "type": "ice",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 1.7,
+        "weight": 55.4,
+        "introduce" : "Là Pokémon chim huyền thoại có quyền năng điều khiển băng, Freezer hạ thấp nhiệt độ không khí bằng những cú đập cánh. Vì vậy, nơi nào thần bay qua đều có tuyết rơi."  
     },
     {
         "id": 145,
@@ -1349,7 +1445,9 @@
         "image": "0145_Thunder.png",
         "type": "electric",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 1.6,
+        "weight": 52.6,
+        "introduce" : "Là Pokémon chim huyền thoại có quyền năng điều khiển điện, Thunder sống giữa những đám mây giông. Sức mạnh của thần tăng lên mỗi khi được sét đánh trúng."  
     },
     {
         "id": 146,
@@ -1357,7 +1455,9 @@
         "image": "0146_Fire.png",
         "type": "fire",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 2.0,
+        "weight": 60.0,
+        "introduce" : "Là Pokémon chim huyền thoại có quyền năng điều khiển lửa, mỗi khi gặp nạn, Fire lại trầm mình trong bể dung nham nóng chảy để tự thiêu và hồi phục các vết thương."  
     },
     {
         "id": 147,
@@ -1365,7 +1465,9 @@
         "image": "0147_Miniryu.png",
         "type": "dragon",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.8,
+        "weight": 3.3,
+        "introduce" : "Vì vẫn còn yếu, loài này sống ẩn dật dưới đáy hồ và ăn bất kì thứ gì bị chìm xuống."  
     },
     {
         "id": 148,
@@ -1373,7 +1475,9 @@
         "image": "0148_Hakuryu.png",
         "type": "dragon",  
         "secondType": null,
-        "introduce" : null
+        "height": 4.0,
+        "weight": 16.5,
+        "introduce" : "Con người chất đầy đồ cúng ở những hồ nơi Hakuryu sinh sống, vì họ tin rằng loài Pokémon này có quyền năng điều khiển thời tiết."
     },
     {
         "id": 149,
@@ -1381,7 +1485,9 @@
         "image": "0149_Kairyu.png",
         "type": "dragon",
         "secondType": "flying",
-        "introduce" : null  
+        "height": 2.2,
+        "weight": 210.0,
+        "introduce" : "Chúng có thể bay qua những vùng biển động dữ dội như không. Một vị thuyền trường từng mục kích cảnh tượng ấy đã gọi Kairyu là hóa thân của biển."  
     },
     {
         "id": 150,
@@ -1389,7 +1495,9 @@
         "image": "0150_Mewtwo.png",
         "type": "psychic",
         "secondType": null,
-        "introduce" : null  
+        "height": 2.0,
+        "weight": 122.0,
+        "introduce" : "Mewtwo là sản phẩm từ quá trình thao tác mã di truyền. Khoa học tiến bộ của loài người dẫu đã làm nên cơ thể nó, nhưng lại thất bại trong việc tạo ra một trái tim trắc ẩn."  
     },
     {
         "id": 151,
@@ -1397,7 +1505,9 @@
         "image": "0151_Mew.png",
         "type": "psychic",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.4,
+        "weight": 4.0,
+        "introduce" : "Theo lời kể, Mew sở hữu gen di truyền của mọi loài Pokémon. Nhờ khả năng tàng hình theo ý muốn, thần có thể tiếp cận con người mà không bị chú ý."  
     },
     {
         "id": 152,
@@ -1405,7 +1515,9 @@
         "image": "0152_Chicorita.png",
         "type": "grass",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.9,
+        "weight": 6.4,
+        "introduce" : "Khi chiến đấu, Chicorita vẫy cái lá trên đầu để vừa hăm dọa kẻ thù, vừa tỏa làn hương dịu ngọt có công dụng kiềm hãm sự hiếu chiến và tạo nên bầu không khí thân thiện chung quanh."  
     },
     {
         "id": 153,
@@ -1413,7 +1525,9 @@
         "image": "0153_Bayleaf.png",
         "type": "grass",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.2,
+        "weight": 15.8,
+        "introduce" : "Bên trong mỗi cuộn lá quanh cổ Bayleaf có một mầm cây tỏa hương thơm, tiếp thêm sinh khí cho người nào ngửi thấy."  
     },
     {
         "id": 154,
@@ -1421,7 +1535,9 @@
         "image": "0154_Meganium.png",
         "type": "grass",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.8,
+        "weight": 100.5,
+        "introduce" : "Hương hoa của Meganium có thể xoa dịu cảm xúc. Trong chiến đấu, chúng tỏa nhiều hương thơm hơn hòng làm nhụt ý chí chiến đấu của kẻ địch."  
     },
     {
         "id": 155,
@@ -1429,7 +1545,9 @@
         "image": "0155_Hinoarashi.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.5,
+        "weight": 7.9,
+        "introduce" : "Lưng Hinoarashi phụt ra lửa để tự vệ. Ngọn lửa cháy mạnh lên theo cơn giận của chúng, nhưng leo lét dần đi nếu chúng bị mệt."  
     },
     {
         "id": 156,
@@ -1437,7 +1555,9 @@
         "image": "0156_Magmarashi.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.9,
+        "weight": 19.0,
+        "introduce" : "Ngọn lửa cháy rực của chúng tỏa hơi nóng dữ dội, giúp giữ khoảng cách với đối thủ. Tốc độ đáng kinh ngạc cho phép chúng vừa né đòn, vừa phun lửa thiêu đốt mục tiêu."  
     },
     {
         "id": 157,
@@ -1445,7 +1565,9 @@
         "image": "0157_Bakphoon.png",
         "type": "fire",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.7,
+        "weight": 79.5,
+        "introduce" : "Bakphoon ẩn nấp giữa lớp sương nhiệt do ngọn lửa nóng rực của mình tạo nên. Chúng kích hoạt những vụ nổ thiêu rụi mọi thứ ra tro."  
     },
     {
         "id": 158,
@@ -1453,7 +1575,9 @@
         "image": "0158_Waninoko.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.6,
+        "weight": 9.5,
+        "introduce" : "Tuy nhỏ bé nhưng Waninoko sở hữu bộ hàm siêu mạnh. Một nhát cắn yêu lúc vui đùa cũng đủ để gây vết thương nghiêm trọng."  
     },
     {
         "id": 159,
@@ -1461,7 +1585,9 @@
         "image": "0159_Alligates.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.1,
+        "weight": 25.0,
+        "introduce" : "Một khi gặm, không đời nào chúng chịu nhả. Nanh của chúng có phần đỉnh cong hệt lưỡi câu, nên rất khó gỡ ra nếu đã cắm vào."  
     },
     {
         "id": 160,
@@ -1469,7 +1595,9 @@
         "image": "0160_Ordile.png",
         "type": "water",
         "secondType": null,
-        "introduce" : null  
+        "height": 2.3,
+        "weight": 88.8,
+        "introduce" : "Chúng há to cái miệng khổng lồ hòng thị uy với kẻ thù. Khi chiến đấu, chúng đạp đất bằng hai chân sau để tạo đà lao cực nhanh vào đối phương."  
     },
     {
         "id": 161,
@@ -1477,7 +1605,9 @@
         "image": "0161_Otachi.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 0.8,
+        "weight": 6.0,
+        "introduce" : "Trong lúc cả đàn đang ngủ, luôn có một con đứng canh gác, nhằm đánh động toàn đội nếu phát hiện nguy hiểm. Những con Otachi bị lạc đàn luôn khó ngủ vì lo sợ."  
     },
     {
         "id": 162,
@@ -1485,7 +1615,9 @@
         "image": "0162_Ootachi.png",
         "type": "normal",
         "secondType": null,
-        "introduce" : null  
+        "height": 1.8,
+        "weight": 32.5,
+        "introduce" : "Nhờ cơ thể thuôn dài, chúng có thể luồn lách để thoát thân khi bị tấn công. Mặc cho tứ chi ngắn, chúng vẫn rất nhanh nhẹn."  
     },
     {
         "id": 163,
@@ -2469,6 +2601,144 @@
         "image": "0285_Kinococo.png",
         "type": "grass",
         "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 286,
+        "name": "Kinogassa",
+        "image": "0286_Kinogassa.png",
+        "type": "grass",
+        "secondType": "fighting",
+        "introduce" : null  
+    },
+    {
+        "id": 287,
+        "name": "Namakero",
+        "image": "0287_Namakero.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 288,
+        "name": "Yarukimono",
+        "image": "0288_Yarukimono.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 289,
+        "name": "Kekking",
+        "image": "0289_Kekking.png",
+        "type": "normal",
+        "secondType": null,
+        "introduce" : null  
+    },
+    {
+        "id": 290,
+        "name": "Tsuchinin",
+        "image": "0290_Tsuchinin.png",
+        "type": "bug",
+        "secondType": "ground",
+        "introduce" : null  
+    },
+    {
+        "id": 291,
+        "name": "Tekkanin",
+        "image": "0291_Tekkanin.png",
+        "type": "bug",
+        "secondType": "flying",
+        "introduce" : null  
+    },
+    {
+        "id": 292,
+        "name": "Nukenin",
+        "image": "0292_Nukenin.png",
+        "type": "bug",
+        "secondType": "ghost",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null  
+    },
+    {
+        "id": 293,
+        "name": "Gonyonyo",
+        "image": "0293_Gonyonyo.png",
+        "type": "normal",
+        "secondType": null,
+        "height": 0.6,
+        "weight": 16.3,
+        "introduce" : "Tiếng kêu bình thường của chúng nhỏ tới nổi dù cố gắng lắng tai cũng khó mà nghe được. Nhưng khi gặp nguy hiểm, chúng sẽ hét lên với âm lượng thủng màng nhĩ."  
+    },
+    {
+        "id": 294,
+        "name": "Dogohmb",
+        "image": "0294_Dogohmb.png",
+        "type": "normal",
+        "secondType": null,
+        "height": 1.0,
+        "weight": 40.5,
+        "introduce" : "Dogohmb dùng tiếng hét thổi bay cả nhà gỗ của mình để trừng trị kẻ thù. Đôi tai chúng đóng vai trò tương tự loa phóng thanh."  
+    },
+    {
+        "id": 295,
+        "name": "Bakuong",
+        "image": "0295_Bakuong.png",
+        "type": "normal",
+        "secondType": null,
+        "height": 1.5,
+        "weight": 84.0,
+        "introduce" : "Tiếng hét của chúng gây ra chấn động khủng khiếp, làm lở đất long trời. Mỗi khi chuẩn bị hét lớn, chúng lấy hơi đầy mạnh bạo bằng các lỗ trên mình."  
+    },
+    {
+        "id": 296,
+        "name": "Makunoshita",
+        "image": "0296_Makunoshita.png",
+        "type": "fighting",
+        "secondType": null,
+        "height": 1.0,
+        "weight": 86.4,
+        "introduce" : "Chúng liên tục chưởng vào thân cây để luyện tập ngón đòn này. Thỉnh thoảng chúng chưởng nhầm vào Nassy để rồi bị đánh văng xa."  
+    },
+    {
+        "id": 297,
+        "name": "Hariteyama",
+        "image": "0297_Hariteyama.png",
+        "type": "fighting",
+        "secondType": null,
+        "height": 2.3,
+        "weight": 253.8,
+        "introduce" : "Tuy thích đọ sức, nhưng Hariteyama lại rất tốt bụng. Chúng coi trọng lễ nghĩa và không ngại tán thưởng đối thủ của mình."  
+    },
+    {
+        "id": 298,
+        "name": "Ruriri",
+        "image": "0298_Ruriri.png",
+        "type": "water",
+        "secondType": "fairy",
+        "height": 0.2,
+        "weight": 2.0,
+        "introduce" : "Chúng quay cái đuôi như một chiếc dây thừng rồi quăng mạnh, tạo đà để phóng cả người mình theo. Một con Ruriri từng lập kỉ lục bay xa đến 10m."  
+    },
+    {
+        "id": 299,
+        "name": "Nosepass",
+        "image": "0299_Nosepass.png",
+        "type": "rock",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null  
+    },
+    {
+        "id": 300,
+        "name": "Eneco",
+        "image": "0300_Eneco.png",
+        "type": "normal",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
         "introduce" : null  
     }
 ]
