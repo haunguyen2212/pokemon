@@ -5,7 +5,7 @@ import HomePage from './pages/Home';
 import CollectionPage from './pages/Collection';
 import GamePage from './pages/Game';
 import QuizPage from './pages/Quiz';
-import NewsPage from './pages/News';
+import PostsPage from './pages/Posts';
 import LinkPage from './pages/Link';
 import ContactPage from './pages/Contact';
 
@@ -20,7 +20,7 @@ function App() {
           <Route path='/collection' element={<CollectionPage />} />
           <Route path='/game' element={<GamePage />} />
           <Route path='/quiz' element={<QuizPage />} />
-          <Route path='/news' element={<NewsPage />} />
+          <Route path='/posts' element={<PostsPage />} />
           <Route path='/link' element={<LinkPage />} />
           <Route path='/contact' element={<ContactPage />} />
         </Routes>
