@@ -65,6 +65,7 @@
 .content{
     margin: 80px 0 30px 0;
     min-height: 75vh;
+    padding: 0 80px;
 }
 
 .pokemon-list{
@@ -199,6 +200,10 @@
 
     .header :checked ~ .header__icon-menu .header__icon-line:nth-child(3){
         transform: translateY(-8px) rotate(-45deg);
+    }
+
+    .content{
+        padding: 0;
     }
 
     .pokemon-list{
