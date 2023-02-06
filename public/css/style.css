@@ -320,4 +320,30 @@
         font-size: 11px;
     }
 
+    .blog__header{
+        font-size: 20px;
+    }
+    
+    .blog__card{
+        width: 100%;
+        margin: 15px;
+    }
+    
+    .blog__content{
+        padding: 10px 20px;
+    }
+    
+    .blog__time{
+        font-size: 10px;
+    }
+    
+    .blog__title{
+        margin: 5px 0;
+        font-size: 15px;
+    }
+    
+    .blog__description{
+        font-size: 12px;
+    }
+
 }

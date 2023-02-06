@@ -1,7 +1,9 @@
+import { Link } from "react-router-dom";
+
 function Blog({data}) {
     return (
         <div className="blog__card">
-            <a href="/post">
+            <Link to={'/post/' + data.id}>
                 <div className="blog__image">
                     <img src={ process.env.PUBLIC_URL + '/img/blog/' + data.thumbnail} alt={data.title} />
                 </div>
@@ -12,7 +14,7 @@ function Blog({data}) {
                         {data.abstract}
                     </div>
                 </div>
-            </a>
+            </Link>
         </div>
     );
 }

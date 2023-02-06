@@ -1,4 +1,4 @@
-import ListPost from '../components/Post/ListPost';
+import ListPost from '../../components/Post/ListPost';
 
 function Post(){
     return (  

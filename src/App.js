@@ -5,9 +5,10 @@ import HomePage from './pages/Home';
 import CollectionPage from './pages/Collection';
 import GamePage from './pages/Game';
 import QuizPage from './pages/Quiz';
-import PostPage from './pages/Post';
+import PostPage from './pages/Post/Post';
 import LinkPage from './pages/Link';
 import ContactPage from './pages/Contact';
+import PostDetail from './pages/Post/Detail';
 
 function App() {
 
@@ -23,6 +24,7 @@ function App() {
           <Route path='/post' element={<PostPage />} />
           <Route path='/link' element={<LinkPage />} />
           <Route path='/contact' element={<ContactPage />} />
+          <Route path='/post/:id' element={<PostDetail />} />
         </Routes>
       </div>
       <Footer />
