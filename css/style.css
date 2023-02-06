@@ -65,6 +65,7 @@
 .content{
     margin: 80px 0 30px 0;
     min-height: 75vh;
+    padding: 0 80px;
 }
 
 .pokemon-list{
@@ -131,6 +132,83 @@
     justify-content: space-between;
     text-align: center;
     margin: 30px 20px 10px 20px;
+}
+
+.blog{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.blog__header{
+    font-size: 30px;
+    color: #2b2b2b;
+    font-weight: 600;
+    text-align: center;
+}
+
+.blog__container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 5px 0;
+    flex-wrap: wrap;
+}
+
+.blog__card{
+    width: calc(25% - 30px);
+    background: #fff;
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.2);
+    margin: 15px;
+    border-radius: 5px;
+    align-self: normal;
+}
+
+.blog__image{
+    width: 100%;
+    height: auto;
+}
+
+.blog__image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom: 4px solid #f44336;
+}
+
+.blog__content{
+    padding: 10px 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.blog__time{
+    color: #f33c3c;
+    font-size: 12px;
+}
+
+.blog__title{
+    margin: 5px 0;
+    font-size: 17px;
+    font-weight: 500;
+    color: #272727;
+}
+
+.blog__description{
+    color: #9b9b9b;
+    font-size: 14px;
+    display: -webkit-box;
+    -webkit-line-clamp: 8;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 5px 0 10px 0;
 }
 
 .footer{
@@ -201,6 +279,10 @@
         transform: translateY(-8px) rotate(-45deg);
     }
 
+    .content{
+        padding: 0;
+    }
+
     .pokemon-list{
         width: 100%;
         margin: 0;
@@ -236,6 +318,32 @@
     .pokemon-card__stats{
         margin: 20px 20px 10px 20px;
         font-size: 11px;
+    }
+
+    .blog__header{
+        font-size: 20px;
+    }
+    
+    .blog__card{
+        width: 100%;
+        margin: 15px;
+    }
+    
+    .blog__content{
+        padding: 10px 20px;
+    }
+    
+    .blog__time{
+        font-size: 10px;
+    }
+    
+    .blog__title{
+        margin: 5px 0;
+        font-size: 15px;
+    }
+    
+    .blog__description{
+        font-size: 12px;
     }
 
 }
