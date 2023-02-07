@@ -3005,9 +3005,9 @@
         "image": "0301_Enekororo.png",
         "type": "normal",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.1,
+        "weight": 32.6,
+        "introduce" : "Loài này thích sống tự do tự tại theo cách riêng của mình. Chúng ăn ngủ cực kì ngẫu hứng, khiến cho lịch trình hàng ngày rối tung cả lên." 
     },
     {
         "id": 302,
@@ -3015,9 +3015,9 @@
         "image": "0302_Yamirami.png",
         "type": "dark",
         "secondType": "ghost",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.5,
+        "weight": 11.0,
+        "introduce" : "Gây khiếp sợ bởi khi đôi mắt bằng đá quý của nó phát sáng, nó sẽ bắt đi linh hồn của con người." 
     },
     {
         "id": 303,
@@ -3025,9 +3025,9 @@
         "image": "0303_Kucheat.png",
         "type": "steel",
         "secondType": "fairy",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.6,
+        "weight": 11.5,
+        "introduce" : "Làm đối thủ lơ là bằng khuôn mặt vô tội, rồi ngoạm bằng cái hàm lớn. Một khi đã cắn tuyệt đối không nhả ra." 
     },
     {
         "id": 304,
@@ -3035,9 +3035,9 @@
         "image": "0304_Cocodora.png",
         "type": "steel",
         "secondType": "rock",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.4,
+        "weight": 60.0,
+        "introduce" : "Cokodora đào núi để tìm ăn quặng sắt - thứ làm nên cơ thể thép cứng của chúng. Thỉnh thoảng, chúng ăn cả những cây cầu và đường ray, gây nên họa lớn." 
     },
     {
         "id": 305,
@@ -3045,9 +3045,9 @@
         "image": "0305_Kodora.png",
         "type": "steel",
         "secondType": "rock",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.9,
+        "weight": 120.0,
+        "introduce" : "Để trui rèn cơ thể thép, chúng uống nước khoáng giàu dưỡng chất đến no căng bụng. Loài này làm tổ gần nguồn suối mát." 
     },
     {
         "id": 306,
@@ -3055,9 +3055,9 @@
         "image": "0306_Bossgodora.png",
         "type": "steel",
         "secondType": "rock",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 2.1,
+        "weight": 360.0,
+        "introduce" : "Mỗi con Bossgodora chiếm cả quả núi làm lãnh địa và liên tục tuần tra cẩn thận xung quanh. Chúng tấn công không thương tiếc bất cứ ai xâm hại đến môi trường của mình." 
     },
     {
         "id": 307,
@@ -3065,9 +3065,9 @@
         "image": "0307_Asanan.png",
         "type": "fighting",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.6,
+        "weight": 11.2,
+        "introduce" : "Chúng tập luyện hăng say sâu trong núi. Tuy nhiên mỗi khi thiền dịnh là loài này lại mất tập trung, nên việc tập luyện không bao giờ kết thúc." 
     },
     {
         "id": 308,
@@ -3075,9 +3075,9 @@
         "image": "0308_Charem.png",
         "type": "fighting",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.3,
+        "weight": 31.5,
+        "introduce" : "Người ta nói rằng bằng thiền định mà loài này đã nâng cao nội lực và trui trèn giác quan thứ sáu. Chúng giấu mình bằng cách hòa vào núi đồi cỏ cây." 
     },
     {
         "id": 309,
@@ -3085,9 +3085,9 @@
         "image": "0309_Rakurai.png",
         "type": "electric",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.6,
+        "weight": 15.2,
+        "introduce" : "Trữ tĩnh điện trong bộ lông rồi phóng ra. Khi có bão đến gần, toàn thân sẽ phát ra các tia lửa điện." 
     },
     {
         "id": 310,
@@ -3095,6 +3095,306 @@
         "image": "0310_Livolt.png",
         "type": "electric",
         "secondType": null,
+        "height": 1.5,
+        "weight": 40.2,
+        "introduce" : "Nhờ kích thích cơ bằng điện mà Livolt di chuyển nhanh như chớp. Đau cơ cũng chữa được ngay lập tức bằng điện." 
+    },
+    {
+        "id": 311,
+        "name": "Prasle",
+        "image": "0311_Prasle.png",
+        "type": "electric",
+        "secondType": null,
+        "height": 0.4,
+        "weight": 4.2,
+        "introduce" : "Loài Pokémon này lúc nào cũng cổ vũ cho đồng bạn. Khi nào đồng đội chiến đấu tốt, chúng chập điện tạo ra tiếng kêu lách tách biểu hiện niềm vui." 
+    },
+    {
+        "id": 312,
+        "name": "Mainan",
+        "image": "0312_Mainan.png",
+        "type": "electric",
+        "secondType": null,
+        "height": 0.4,
+        "weight": 4.2,
+        "introduce" : "Loài này lo cổ vũ cho đồng đội còn hơn sự an toàn của bản thân. Chúng bắn ra điện tích từ cơ thể tạo ra pháo hoa tuyệt đẹp để cổ vũ đồng bạn." 
+    },
+    {
+        "id": 313,
+        "name": "Barubeat",
+        "image": "0313_Barubeat.png",
+        "type": "bug",
+        "secondType": null,
+        "height": 0.7,
+        "weight": 17.7,
+        "introduce" : "Khi đêm đến loài này phát ánh sáng từ đuôi. Chúng thay đổi độ sáng và nhấp nháy để giao tiếp với đồng loại. Chúng bị thu hút bởi hương thơm ngọt ngào của loài Illumise." 
+    },
+    {
+        "id": 314,
+        "name": "Illumise",
+        "image": "0314_Illumise.png",
+        "type": "bug",
+        "secondType": null,
+        "height": 0.6,
+        "weight": 17.7,
+        "introduce" : "Loài này dùng hương thơm ngọt ngào thu hút bầy Barubeat. Một khi lũ Barubeat đã tụ hợp, chúng sẽ hướng dẫn lũ côn trùng phát sáng vẽ nên nhiều hình thù trên bầu trời đêm." 
+    },
+    {
+        "id": 315,
+        "name": "Roselia",
+        "image": "0315_Roselia.png",
+        "type": "grass",
+        "secondType": "poison",
+        "height": 0.3,
+        "weight": 2.0,
+        "introduce" : "Ngửi mùi hoa thì tâm trạng thư thái. Hương hoa đậm mùi nghĩa là Roselia khỏe mạnh." 
+    },
+    {
+        "id": 316,
+        "name": "Gokurin",
+        "image": "0316_Gokurin.png",
+        "type": "poison",
+        "secondType": null,
+        "height": 0.4,
+        "weight": 10.3,
+        "introduce" : "Hầu hết cơ thể của loài này là dạ dày, nên chúng có thể nuốt chửng những vật to bằng kích thước cơ thể. Dạ dày chúng có chứa dịch vị đặc biệt có thể tiêu hóa tất cả mọi thứ." 
+    },
+    {
+        "id": 317,
+        "name": "Marunoom",
+        "image": "0317_Marunoom.png",
+        "type": "poison",
+        "secondType": null,
+        "height": 1.7,
+        "weight": 80.0,
+        "introduce" : "Khi loài này phát hiện ra con mồi, chúng phun ra nọc độc lên người đối thủ. Một khi đối phương đã suy yếu, chúng dùng cái miệng khổng lồ nuốt chửng." 
+    },
+    {
+        "id": 318,
+        "name": "Kibanha",
+        "image": "0318_Kibanha.png",
+        "type": "water",
+        "secondType": "dark",
+        "height": 0.8,
+        "weight": 20.8,
+        "introduce" : "Loài này nhát gan tới nỗi không dám đi săn một mình. Chỉ cần có khoảng 5 con đứng cùng nhau là bỗng nhiên trở nên hổ báo." 
+    },
+    {
+        "id": 319,
+        "name": "Samehader",
+        "image": "0319_Samehader.png",
+        "type": "water",
+        "secondType": "dark",
+        "height": 1.8,
+        "weight": 88.8,
+        "introduce" : "Người ta tin rằng chỉ cần mang theo nanh loài này rụng ra là đi biển được bình an, nên nanh loài này được gia công thành món trang sức." 
+    },
+    {
+        "id": 320,
+        "name": "Hoeruko",
+        "image": "0320_Hoeruko.png",
+        "type": "water",
+        "secondType": null,
+        "height": 2.0,
+        "weight": 130.0,
+        "introduce" : "Khoe khoang bằng cách phun nước biển từ lỗ mũi nằm trên mắt. Mỗi ngày nó ăn 1 tấn Yowashi." 
+    },
+    {
+        "id": 321,
+        "name": "Whaloh",
+        "image": "0321_Whaloh.png",
+        "type": "water",
+        "secondType": null,
+        "height": 14.5,
+        "weight": 398.0,
+        "introduce" : "Đôi khi nó tạo ra chấn động bằng cách nhảy lên và lao cái thân to xác của nó xuống nước, khiến đối thủ choáng ngất." 
+    },
+    {
+        "id": 322,
+        "name": "Donmel",
+        "image": "0322_Donmel.png",
+        "type": "fire",
+        "secondType": "ground",
+        "height": 0.7,
+        "weight": 24.0,
+        "introduce" : "Loài này khờ tới nỗi còn không thể nhận ra mình bị đánh, nhưng lại không thể chịu được cơn đới quá một giây. Cơ thể chúng là nồi nung mắc ma nóng chảy." 
+    },
+    {
+        "id": 323,
+        "name": "Bakuuda",
+        "image": "0323_Bakuuda.png",
+        "type": "fire",
+        "secondType": "ground",
+        "height": 1.9,
+        "weight": 220.0,
+        "introduce" : "Loài Pokémon này có nguyên cả núi lửa bên trong cơ thể với mắc ma nóng lên tới mười ngàn độ C. Bướu trên lưng chúng thi thoảng phun trào, bắn ra dung nham bỏng rát." 
+    },
+    {
+        "id": 324,
+        "name": "Cotoise",
+        "image": "0324_Cotoise.png",
+        "type": "fire",
+        "secondType": null,
+        "height": 0.5,
+        "weight": 80.4,
+        "introduce" : "Cotoise đốt than trong vỏ để sinh năng lượng. Khi gặp nguy hiểm, nó sẽ xả muội đen ra." 
+    },
+    {
+        "id": 325,
+        "name": "Baneboo",
+        "image": "0325_Baneboo.png",
+        "type": "psychic",
+        "secondType": null,
+        "height": 0.7,
+        "weight": 30.6,
+        "introduce" : "Loài Pokémon này nhảy tưng tưng trên chiếc đuôi của mình và lực nhảy khiến tim chúng đập. Thế nên chúng không thể ngừng nhảy, vì chỉ cần ngừng là tim cũng dừng đập." 
+    },
+    {
+        "id": 326,
+        "name": "Boopig",
+        "image": "0326_Boopig.png",
+        "type": "psychic",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 327,
+        "name": "Patcheel",
+        "image": "0327_Patcheel.png",
+        "type": "normal",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 328,
+        "name": "Nuckrar",
+        "image": "0328_Nuckrar.png",
+        "type": "ground",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 329,
+        "name": "Vibrava",
+        "image": "0329_Vibrava.png",
+        "type": "ground",
+        "secondType": "dragon",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 330,
+        "name": "Flygon",
+        "image": "0330_Flygon.png",
+        "type": "ground",
+        "secondType": "dragon",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 331,
+        "name": "Sabonea",
+        "image": "0331_Sabonea.png",
+        "type": "grass",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 332,
+        "name": "Noctus",
+        "image": "0332_Noctus.png",
+        "type": "grass",
+        "secondType": "dark",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 333,
+        "name": "Tyltto",
+        "image": "0333_Tyltto.png",
+        "type": "normal",
+        "secondType": "flying",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 334,
+        "name": "Tyltalis",
+        "image": "0334_Tyltalis.png",
+        "type": "dragon",
+        "secondType": "flying",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 335,
+        "name": "Zangoose",
+        "image": "0335_Zangoose.png",
+        "type": "normal",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 336,
+        "name": "Habunake",
+        "image": "0336_Habunake.png",
+        "type": "poison",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 337,
+        "name": "Lunatone",
+        "image": "0337_Lunatone.png",
+        "type": "rock",
+        "secondType": "psychic",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 338,
+        "name": "Solrock",
+        "image": "0338_Solrock.png",
+        "type": "rock",
+        "secondType": "psychic",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 339,
+        "name": "Dojoach",
+        "image": "0339_Dojoach.png",
+        "type": "water",
+        "secondType": "ground",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 340,
+        "name": "Namazun",
+        "image": "0340_Namazun.png",
+        "type": "water",
+        "secondType": "ground",
         "height": 0,
         "weight": 0,
         "introduce" : null 
