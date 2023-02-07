@@ -15,7 +15,7 @@ function Header() {
             <li className="header__item"><Link to="/collection" onClick={() => handleClick()}>Bộ sưu tập</Link></li>
             <li className="header__item"><Link to="/game" onClick={() => handleClick()}>Trò chơi</Link></li>
             <li className="header__item"><Link to="/quiz" onClick={() => handleClick()}>Đố vui</Link></li>
-            <li className="header__item"><Link to="/posts" onClick={() => handleClick()}>Bài viết</Link></li>
+            <li className="header__item"><Link to="/post" onClick={() => handleClick()}>Bài viết</Link></li>
             <li className="header__item"><Link to="/link" onClick={() => handleClick()}>Liên kết</Link></li>
             <li className="header__item"><Link to="/contact" onClick={() => handleClick()}>Liên hệ</Link></li>
         </div>
