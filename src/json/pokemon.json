@@ -3398,5 +3398,455 @@
         "height": 0,
         "weight": 0,
         "introduce" : null 
+    },
+    {
+        "id": 341,
+        "name": "Heigani",
+        "image": "0341_Heigani.png",
+        "type": "water",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 342,
+        "name": "Shizariga",
+        "image": "0342_Shizariga.png",
+        "type": "water",
+        "secondType": "dark",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 343,
+        "name": "Yajiron",
+        "image": "0343_Yajiron.png",
+        "type": "ground",
+        "secondType": "psychic",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 344,
+        "name": "Nendoll",
+        "image": "0344_Nendoll.png",
+        "type": "ground",
+        "secondType": "psychic",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 345,
+        "name": "Lilyla",
+        "image": "0345_Lilyla.png",
+        "type": "rock",
+        "secondType": "grass",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 346,
+        "name": "Yuradle",
+        "image": "0346_Yuradle.png",
+        "type": "rock",
+        "secondType": "grass",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 347,
+        "name": "Anopth",
+        "image": "0347_Anopth.png",
+        "type": "rock",
+        "secondType": "bug",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 348,
+        "name": "Armaldo",
+        "image": "0348_Armaldo.png",
+        "type": "rock",
+        "secondType": "bug",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 349,
+        "name": "Hinbass",
+        "image": "0349_Hinbass.png",
+        "type": "water",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 350,
+        "name": "Milokaross",
+        "image": "0350_Milokaross.png",
+        "type": "water",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 351,
+        "name": "Powalen",
+        "image": "0351_Powalen.png",
+        "type": "normal",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 352,
+        "name": "Kakureon",
+        "image": "0352_Kakureon.png",
+        "type": "normal",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 353,
+        "name": "Kagebouzu",
+        "image": "0353_Kagebouzu.png",
+        "type": "ghost",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 354,
+        "name": "Juppeta",
+        "image": "0354_Juppeta.png",
+        "type": "ghost",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 355,
+        "name": "Yomawaru",
+        "image": "0355_Yomawaru.png",
+        "type": "ghost",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 356,
+        "name": "Samayouru",
+        "image": "0356_Samayouru.png",
+        "type": "ghost",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 357,
+        "name": "Tropius",
+        "image": "0357_Tropius.png",
+        "type": "grass",
+        "secondType": "flying",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 358,
+        "name": "Chirean",
+        "image": "0358_Chirean.png",
+        "type": "psychic",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 359,
+        "name": "Absol",
+        "image": "0359_Absol.png",
+        "type": "dark",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 360,
+        "name": "Sohnano",
+        "image": "0360_Sohnano.png",
+        "type": "psychic",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 361,
+        "name": "Yukiwarashi",
+        "image": "0361_Yukiwarashi.png",
+        "type": "ice",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 362,
+        "name": "Onigohri",
+        "image": "0362_Onigohri.png",
+        "type": "ice",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 363,
+        "name": "Tamazarashi",
+        "image": "0363_Tamazarashi.png",
+        "type": "ice",
+        "secondType": "water",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 364,
+        "name": "Todoggler",
+        "image": "0364_Todoggler.png",
+        "type": "ice",
+        "secondType": "water",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 365,
+        "name": "Todoseruga",
+        "image": "0365_Todoseruga.png",
+        "type": "ice",
+        "secondType": "water",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 366,
+        "name": "Pearlulu",
+        "image": "0366_Pearlulu.png",
+        "type": "water",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 367,
+        "name": "Huntail",
+        "image": "0367_Huntail.png",
+        "type": "water",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 368,
+        "name": "Sakurabyss",
+        "image": "0368_Sakurabyss.png",
+        "type": "water",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 369,
+        "name": "Glanth",
+        "image": "0369_Glanth.png",
+        "type": "water",
+        "secondType": "rock",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 370,
+        "name": "Lovecus",
+        "image": "0370_Lovecus.png",
+        "type": "water",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 371,
+        "name": "Tatsubay",
+        "image": "0371_Tatsubay.png",
+        "type": "dragon",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 372,
+        "name": "Komoruu",
+        "image": "0372_Komoruu.png",
+        "type": "dragon",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 373,
+        "name": "Bohmander",
+        "image": "0373_Bohmander.png",
+        "type": "dragon",
+        "secondType": "flying",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 374,
+        "name": "Dumbber",
+        "image": "0374_Dumbber.png",
+        "type": "steel",
+        "secondType": "psychic",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 375,
+        "name": "Metang",
+        "image": "0375_Metang.png",
+        "type": "steel",
+        "secondType": "psychic",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 376,
+        "name": "Metagross",
+        "image": "0376_Metagross.png",
+        "type": "steel",
+        "secondType": "psychic",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 377,
+        "name": "Regirock",
+        "image": "0377_Regirock.png",
+        "type": "rock",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 378,
+        "name": "Regice",
+        "image": "0378_Regice.png",
+        "type": "ice",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 379,
+        "name": "Regsteel",
+        "image": "0379_Regsteel.png",
+        "type": "steel",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 380,
+        "name": "Latias",
+        "image": "0380_Latias.png",
+        "type": "dragon",
+        "secondType": "psychic",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 381,
+        "name": "Latios",
+        "image": "0381_Latios.png",
+        "type": "dragon",
+        "secondType": "psychic",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 382,
+        "name": "Kaioga",
+        "image": "0382_Kaioga.png",
+        "type": "water",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 383,
+        "name": "Groudon",
+        "image": "0383_Groudon.png",
+        "type": "ground",
+        "secondType": null,
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 384,
+        "name": "Rayquaza",
+        "image": "0384_Rayquaza.png",
+        "type": "dragon",
+        "secondType": "flying",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
+    },
+    {
+        "id": 385,
+        "name": "Jirachi",
+        "image": "0385_Jirachi.png",
+        "type": "steel",
+        "secondType": "psychic",
+        "height": 0,
+        "weight": 0,
+        "introduce" : null 
     }
 ]
