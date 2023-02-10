@@ -1,0 +1,44 @@
+.blog{
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+}
+
+.blog__left {
+    float: left;
+    width: 70%;
+}
+  
+.blog__right {
+    float: left;
+    width: 30%;
+    padding-left: 25px;
+}
+  
+.blog__image {
+    background-color: #aaa;
+    width: calc(100% - 50px);
+    padding: 25px;
+}
+  
+.blog__card {
+    background-color: white;
+    padding: 25px;
+    margin-top: 10px;
+}
+  
+.blog:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+@media screen and (max-width: 800px) {
+    .blog{
+        flex-wrap: wrap;
+    }
+
+    .blog__left, .blog__right {
+      width: 100%;
+      padding: 0;
+    }
+  }

@@ -1,3 +1,5 @@
+import '../../css/pokemon_card.css';
+
 function ItemPokemon({data, onSearch}){
     return (
         <div className={`pokemon-card bg-half-circle-${data.type}`}>
