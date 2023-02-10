@@ -1,21 +1,24 @@
-import { Link } from "react-router-dom";
+import '../../css/blog.css';
 
-function Blog({data}) {
+function Blog({ id }){
     return (
-        <div className="blog__card">
-            <Link to={'/post/' + data.id}>
-                <div className="blog__image">
-                    <img src={ process.env.PUBLIC_URL + '/img/blog/' + data.thumbnail} alt={data.title} />
+        <div className="blog">
+            <div className="blog__left">
+                <div className="blog__card">
+                    <h2>TITLE HEADING</h2>
+                    <h5>Title description, Dec 7, 2017</h5>
+                    <div className="blog__image" style={{ height: '200px' }}>Image</div>
+                    <p>Some text..{id}</p>
                 </div>
-                <div className="blog__content">
-                    <div className="blog__time">{Intl.DateTimeFormat("vi").format(new Date(data.created_at))}  - {data.created_by}</div>
-                    <div className="blog__title">{data.title}</div>
-                    <div className="blog__description">
-                        {data.abstract}
-                    </div>
+            </div>
+            <div className="blog__right">
+                <div className="blog__card">
+                    <h2>About Me</h2>
+                    <div className="blog__image" style={{height: '100px'}}>Image</div>
+                    <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
                 </div>
-            </Link>
-        </div>
+            </div>
+      </div>
     );
 }
 

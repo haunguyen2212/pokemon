@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Blog from "../common/Blog";
+import Card from "../common/Card";
 import Posts from "../../json/post.json";
 
 
@@ -8,10 +8,10 @@ function ListPost() {
     const [listPost, setListPost] = useState(Posts);
 
     return (
-        <div className="blog">
-            <div className="blog__header">Danh sách bài viết</div>
-            <div className="blog__container">
-            { listPost.map((item) =>  <Blog key={item.id} data={item} />)}
+        <div className="block">
+            <div className="block__header">Danh sách bài viết</div>
+            <div className="block__container">
+            { listPost.map((item) =>  <Card key={item.id} data={item} />)}
             </div>
         </div>
     );
