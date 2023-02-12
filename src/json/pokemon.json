@@ -3255,9 +3255,9 @@
         "image": "0326_Boopig.png",
         "type": "psychic",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.9,
+        "weight": 71.5,
+        "introduce" : "Loài Pokémon này dùng những viên ngọc trai đen trên cơ thể để khuếch đại sóng lực tâm linh hòng thao tính hoàn toàn đối phương. Khi chúng dùng sức mạnh đặc biệt, hơi thở chúng cũng trở nên nặng nhọc." 
     },
     {
         "id": 327,
@@ -3265,9 +3265,9 @@
         "image": "0327_Patcheel.png",
         "type": "normal",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.1,
+        "weight": 0.5,
+        "introduce" : "Bước chân loài này run rẩy xiêu vẹo. Đi bộ khoảng thời gian dài là đủ làm chúng thấy muốn bệnh." 
     },
     {
         "id": 328,
@@ -3275,9 +3275,9 @@
         "image": "0328_Nuckrar.png",
         "type": "ground",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.7,
+        "weight": 15.0,
+        "introduce" : "Tổ mà nó tạo ra trên sa mạc có hình dạng cong như cái chén, nếu rơi vào thì không thể thoát ra." 
     },
     {
         "id": 329,
@@ -3285,9 +3285,9 @@
         "image": "0329_Vibrava.png",
         "type": "ground",
         "secondType": "dragon",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.1,
+        "weight": 15.3,
+        "introduce" : "Sóng siêu âm phát ra khi nó đập nhanh 2 cánh vào nhau có thể gây ra cơn đau đầu dữ dội." 
     },
     {
         "id": 330,
@@ -3295,9 +3295,9 @@
         "image": "0330_Flygon.png",
         "type": "ground",
         "secondType": "dragon",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 2.0,
+        "weight": 82.0,
+        "introduce" : "Lẩn trốn trong tâm bão cát do nó tạo ra và hiếm khi xuất hiện trong tầm mắt loài người." 
     },
     {
         "id": 331,
@@ -3305,9 +3305,9 @@
         "image": "0331_Sabonea.png",
         "type": "grass",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.4,
+        "weight": 51.3,
+        "introduce" : "Loài này sống ở những vùng ít mưa như sa mạc. Chúng tỏa ra mùi hương nồng nàn từ hoa để thu hút con mồi. Khi mồi đến loài này bắn gai nhọn từ thân để hạ gục." 
     },
     {
         "id": 332,
@@ -3315,9 +3315,9 @@
         "image": "0332_Noctus.png",
         "type": "grass",
         "secondType": "dark",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.3,
+        "weight": 77.4,
+        "introduce" : "Vào ban ngày loài này không di chuyển để không mất độ ẩm giữa ánh nắng sa mạc khắc nghiệt. Khi đêm xuống lúc nhiệt độ đã hạ thấp chúng mới bắt đầu hoạt động." 
     },
     {
         "id": 333,
@@ -3325,9 +3325,9 @@
         "image": "0333_Tyltto.png",
         "type": "normal",
         "secondType": "flying",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.4,
+        "weight": 1.2,
+        "introduce" : "Đôi cánh loài Pokémon này vừa nhẹ vừa mềm giống như đám mây bông vậy. Chúng không sợ con người, mà đậu lên đầu người ta giống như những chiếc mũ bông bồng bềnh." 
     },
     {
         "id": 334,
@@ -3335,9 +3335,9 @@
         "image": "0334_Tyltalis.png",
         "type": "dragon",
         "secondType": "flying",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.1,
+        "weight": 20.6,
+        "introduce" : "Loài này múa lượn trên bầu trời quanh những đám mây tựa bông gòn. Chúng cất tiếng hát trong như pha lê hót lên những giai điệu du dương, đưa người nghe tới những kì quan mơ mộng." 
     },
     {
         "id": 335,
@@ -3345,9 +3345,9 @@
         "image": "0335_Zangoose.png",
         "type": "normal",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.3,
+        "weight": 40.3,
+        "introduce" : "Kí ức giao chiến với kì phùng địch thủ Habunake khắc sâu vào từng tế bào của loài này. Chúng có thể né đòn với tốc độ khủng khiếp." 
     },
     {
         "id": 336,
@@ -3355,9 +3355,9 @@
         "image": "0336_Habunake.png",
         "type": "poison",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 2.7,
+        "weight": 52.5,
+        "introduce" : "Loài này là đối thủ đời đời kiếp kiếp của Zangoose. Những vết sẹo trên người là chiến tích của những trận chiến khốc liệt. Chúng dùng chiếc đuôi sắc tựa lưỡi kiếm để tấn công." 
     },
     {
         "id": 337,
@@ -3365,9 +3365,9 @@
         "image": "0337_Lunatone.png",
         "type": "rock",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.0,
+        "weight": 168.0,
+        "introduce" : "Dường như trăng có ảnh hưởng đến sức mạnh của nó nên nó trở nên hoạt bát hơn trong đêm trăng rằm." 
     },
     {
         "id": 338,
@@ -3375,9 +3375,9 @@
         "image": "0338_Solrock.png",
         "type": "rock",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.2,
+        "weight": 154.0,
+        "introduce" : "Khi xoay người, nó phát ra ánh sáng tựa ánh mặt trời, làm lóa mắt kẻ thù." 
     },
     {
         "id": 339,
@@ -3385,9 +3385,9 @@
         "image": "0339_Dojoach.png",
         "type": "water",
         "secondType": "ground",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.4,
+        "weight": 1.9,
+        "introduce" : "Cơ thể nhầy nhụa của Dojoach rất khó bắt. Có vùng cho rằng nó sinh ra từ bùn cứng lại." 
     },
     {
         "id": 340,
@@ -3395,9 +3395,9 @@
         "image": "0340_Namazun.png",
         "type": "water",
         "secondType": "ground",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.9,
+        "weight": 23.6,
+        "introduce" : "Namazun làm tổ ở dưới đáy đầm. Háu ăn đến nỗi thứ gì còn sống thì thứ đó Namazun ăn tuốt." 
     },
     {
         "id": 341,
@@ -3405,9 +3405,9 @@
         "image": "0341_Heigani.png",
         "type": "water",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.6,
+        "weight": 11.5,
+        "introduce" : "Dù nước sông bẩn đến mấy, với ý chí sống kiên cường nó vẫn thích nghi và phát triển." 
     },
     {
         "id": 342,
@@ -3415,9 +3415,9 @@
         "image": "0342_Shizariga.png",
         "type": "water",
         "secondType": "dark",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.1,
+        "weight": 32.8,
+        "introduce" : "Một kẻ điên loạn vung vẩy cái càng khổng lồ của mình. Nghe nói rất khó để nuôi." 
     },
     {
         "id": 343,
@@ -3425,9 +3425,9 @@
         "image": "0343_Yajiron.png",
         "type": "ground",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.5,
+        "weight": 21.5,
+        "introduce" : "Vừa đi vừa xoay vòng bằng một chân. Một vài con còn bị bắt gặp trồng cây chuối nữa." 
     },
     {
         "id": 344,
@@ -3435,9 +3435,9 @@
         "image": "0344_Nendoll.png",
         "type": "ground",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.5,
+        "weight": 108.0,
+        "introduce" : "Pokémon bí ẩn, có lẽ sống dậy từ hình nhân đất sét do người cổ đại tạo ra 2 vạn năm trước." 
     },
     {
         "id": 345,
@@ -3445,9 +3445,9 @@
         "image": "0345_Lilyla.png",
         "type": "rock",
         "secondType": "grass",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.1,
+        "weight": 23.8,
+        "introduce" : "Vào thời cổ đại loài này sống tại những vùng biển ấm. Chúng tự cải trang bản thân thành tảo biển để phục kích con mồi rồi nuốt chửng chúng khi chúng tiến lại gần." 
     },
     {
         "id": 346,
@@ -3455,9 +3455,9 @@
         "image": "0346_Yuradle.png",
         "type": "rock",
         "secondType": "grass",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.5,
+        "weight": 60.4,
+        "introduce" : "Loài này thường sống tại những vùng biển cạn. Khi thủy triều rút, chúng lên bờ tìm mồi."
     },
     {
         "id": 347,
@@ -3465,9 +3465,9 @@
         "image": "0347_Anopth.png",
         "type": "rock",
         "secondType": "bug",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.7,
+        "weight": 12.5,
+        "introduce" : "Khi thả Anopth được phục sinh ra ngoài đại dương thì chúng không thể phát triển được vì thành phần nước biển hiện giờ đã khác nhiều so với thời của chúng." 
     },
     {
         "id": 348,
@@ -3475,9 +3475,9 @@
         "image": "0348_Armaldo.png",
         "type": "rock",
         "secondType": "bug",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.5,
+        "weight": 68.2,
+        "introduce" : "Loài này sống trên cạn và xuống biển để săn mồi. Đôi càng sắc bén là vũ khí lợi hại nhất của chúng." 
     },
     {
         "id": 349,
@@ -3485,9 +3485,9 @@
         "image": "0349_Hinbass.png",
         "type": "water",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.6,
+        "weight": 7.4,
+        "introduce" : "Dù vẻ ngoài xấu xí, không ai ưa, nhưng nhờ sinh lực mạnh mẽ nên Hinbass trở thành đối tượng nghiên cứu." 
     },
     {
         "id": 350,
@@ -3495,9 +3495,9 @@
         "image": "0350_Milokaross.png",
         "type": "water",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 6.2,
+        "weight": 162.0,
+        "introduce" : "Được ca ngợi là Pokémon đẹp nhất, Milokaross là nguồn cảm hứng của nhiều nghệ sĩ." 
     },
     {
         "id": 351,
@@ -3505,9 +3505,9 @@
         "image": "0351_Powalen.png",
         "type": "normal",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.3,
+        "weight": 0.8,
+        "introduce" : "Dù hình dáng của loài này thay đổi theo thời tiết, nhưng có vẻ đó là kết quả của phản ứng hóa học, chứ không phải là chúng biến đổi theo ý mình." 
     },
     {
         "id": 352,
@@ -3515,9 +3515,9 @@
         "image": "0352_Kakureon.png",
         "type": "normal",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.0,
+        "weight": 22.0,
+        "introduce" : "Chúng biến đổi màu da để hòa vào môi trường xung quanh. Nếu không ai phát hiện ra chúng trong một thời gian dài thì chúng sẽ dỗi và không bao giờ lộ dạng nữa." 
     },
     {
         "id": 353,
@@ -3525,9 +3525,9 @@
         "image": "0353_Kagebouzu.png",
         "type": "ghost",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.6,
+        "weight": 2.3,
+        "introduce" : "Loài này ăn những cảm xúc tiêu cực như thù hận, đố kị, buồn bã, nên nhiều người rất biết ơn sự hiện diện của chúng." 
     },
     {
         "id": 354,
@@ -3535,9 +3535,9 @@
         "image": "0354_Juppeta.png",
         "type": "ghost",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.1,
+        "weight": 12.5,
+        "introduce" : "Chúng ban đầu là búp bê nhồi bông bị vứt bỏ rồi bị nhập, sau đó mãi mãi đi tìm người đã vứt bỏ mình để trả thù." 
     },
     {
         "id": 355,
@@ -3545,9 +3545,9 @@
         "image": "0355_Yomawaru.png",
         "type": "ghost",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.8,
+        "weight": 15.0,
+        "introduce" : "Lời đồn đại rằng khi phát hiện trẻ em không nghe lời cha mẹ, nửa đêm Yomawaru sẽ dắt chúng đi đâu đó." 
     },
     {
         "id": 356,
@@ -3555,9 +3555,9 @@
         "image": "0356_Samayouru.png",
         "type": "ghost",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.6,
+        "weight": 30.6,
+        "introduce" : "Toàn thân nó rỗng toác. Khi mở miệng, giống như lỗ đen, nó sẽ hút vào mọi thứ." 
     },
     {
         "id": 357,
@@ -3565,9 +3565,9 @@
         "image": "0357_Tropius.png",
         "type": "grass",
         "secondType": "flying",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 2.0,
+        "weight": 100.0,
+        "introduce" : "Chùm quả ngọt mọc trên cổ Tropius ở vùng Alola đặc biệt ngon ngọt hơn ở những vùng khác." 
     },
     {
         "id": 358,
@@ -3575,9 +3575,9 @@
         "image": "0358_Chirean.png",
         "type": "psychic",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.6,
+        "weight": 1.0,
+        "introduce" : "Loài này dùng cơ thể trống rỗng của mình làm tiếng kêu của mình vang vọng. Khi chúng tức giận tiếng hét trở thành sóng siêu âm đủ sức để thổi bay kẻ thù." 
     },
     {
         "id": 359,
@@ -3585,9 +3585,9 @@
         "image": "0359_Absol.png",
         "type": "dark",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.2,
+        "weight": 47.0,
+        "introduce" : "Điều duy nhất không may mắn về Absol là ngoại hình của chúng. Tuy vậy, chúng ta nên biết ơn Absol, vì chúng bảo vệ ruộng nương và cảnh báo thiên tai cho con người." 
     },
     {
         "id": 360,
@@ -3595,9 +3595,9 @@
         "image": "0360_Sohnano.png",
         "type": "psychic",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.6,
+        "weight": 14.0,
+        "introduce" : "Hành động theo đàn lớn. Bằng cách chụm lưng, chúng rèn luyện khả năng chịu đựng bền bỉ." 
     },
     {
         "id": 361,
@@ -3605,9 +3605,9 @@
         "image": "0361_Yukiwarashi.png",
         "type": "ice",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.7,
+        "weight": 16.8,
+        "introduce" : "Có lời đồn rằng Yukiwarashi xuất hiện lúc nửa đêm sẽ làm tuyết rơi mạnh. Sống nhờ ăn băng và tuyết." 
     },
     {
         "id": 362,
@@ -3615,9 +3615,9 @@
         "image": "0362_Onigohri.png",
         "type": "ice",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.5,
+        "weight": 256.5,
+        "introduce" : "Có cơ thể băng không tan chảy dù trong lửa. Trong chớp mắt có thể làm đông cứng hơi nước trong không khí."
     },
     {
         "id": 363,
@@ -3625,9 +3625,9 @@
         "image": "0363_Tamazarashi.png",
         "type": "ice",
         "secondType": "water",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.8,
+        "weight": 39.5,
+        "introduce" : "Loài này lúc di chuyển lăn còn nhanh hơn đi bộ. Khi nguyên bầy ăn chúng sẽ vỗ tay cùng lúc để thể hiện sự khoái chí, nên bữa ăn của chúng cực kì ồn ào." 
     },
     {
         "id": 364,
@@ -3635,9 +3635,9 @@
         "image": "0364_Todoggler.png",
         "type": "ice",
         "secondType": "water",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.1,
+        "weight": 87.6,
+        "introduce" : "Todoggler có thói quen hay tung hứng đồ vật chúng vừa nhìn thấy lần đầu trên đầu mũi. Chúng thi thoảng tự mình giải trí bằng cách giữ thăng bằng và lăn đồ vật bằng mũi." 
     },
     {
         "id": 365,
@@ -3645,9 +3645,9 @@
         "image": "0365_Todoseruga.png",
         "type": "ice",
         "secondType": "water",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.4,
+        "weight": 150.6,
+        "introduce" : "Cặp ngà phát triển vĩ đại của loài này có thể phá nát tảng băng nặng mười tấn chỉ bằng một cú húc. Lớp mỡ dày giúp chúng giữ ấm trong môi trường âm độ C." 
     },
     {
         "id": 366,
@@ -3655,9 +3655,9 @@
         "image": "0366_Pearlulu.png",
         "type": "water",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.4,
+        "weight": 52.5,
+        "introduce" : "Khác với vẻ bề ngoài, loài này là loài ăn thịt. Chúng dùng hai bên vỏ sò kẹp chặt con mồi cho tới khi con mồi ngừng cử động." 
     },
     {
         "id": 367,
@@ -3665,9 +3665,9 @@
         "image": "0367_Huntail.png",
         "type": "water",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.7,
+        "weight": 27.0,
+        "introduce" : "Chúng bơi không được tốt cho lắm. Loài này dùng đuôi nhử mồi rồi đợi mồi tới gần là nuốt chửng." 
     },
     {
         "id": 368,
@@ -3675,9 +3675,9 @@
         "image": "0368_Sakurabyss.png",
         "type": "water",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.8,
+        "weight": 22.6,
+        "introduce" : "Màu sắc của loài này thay đổi dựa theo nhiệt độ của nước. Màu của Sakurabyss ở vùng Alola tươi đến chói lóa." 
     },
     {
         "id": 369,
@@ -3685,9 +3685,9 @@
         "image": "0369_Glanth.png",
         "type": "water",
         "secondType": "rock",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.0,
+        "weight": 23.4,
+        "introduce" : "Glanth được cho rằng là đã tuyệt chủng. Chúng được đặt tên theo người đã phát hiện ra chúng." 
     },
     {
         "id": 370,
@@ -3695,9 +3695,9 @@
         "image": "0370_Lovecus.png",
         "type": "water",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.6,
+        "weight": 8.7,
+        "introduce" : "Có thời loài này bị đánh bắt quá mức vì lời đồn nếu sở hữu một chiếc vảy hình trái tim của chúng thì sẽ tìm được người trong mộng." 
     },
     {
         "id": 371,
@@ -3705,9 +3705,9 @@
         "image": "0371_Tatsubay.png",
         "type": "dragon",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.6,
+        "weight": 42.1,
+        "introduce" : "Mỗi khi chúng thấy Pokémon chim bay trên trời là lại cảm thấy ghen tị mà húc đầu vào mọi thứ xung quanh." 
     },
     {
         "id": 372,
@@ -3715,9 +3715,9 @@
         "image": "0372_Komoruu.png",
         "type": "dragon",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.1,
+        "weight": 110.5,
+        "introduce" : "Tế bào trong cơ thể loài này biến đổi với tốc độ chóng mặt. Vỏ của chúng được tạo ra bằng thành phần giống như thành phần cấu tạo nên xương." 
     },
     {
         "id": 373,
@@ -3725,9 +3725,9 @@
         "image": "0373_Bohmander.png",
         "type": "dragon",
         "secondType": "flying",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.5,
+        "weight": 102.6,
+        "introduce" : "Quá vui mừng vì cuối cùng cũng được bay, chúng bay khắp nơi và chỉ hạ cánh một khi mệt lả cẩn nghỉ ngơi." 
     },
     {
         "id": 374,
@@ -3735,9 +3735,9 @@
         "image": "0374_Dumbber.png",
         "type": "steel",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.6,
+        "weight": 95.2,
+        "introduce" : "Thay vì máu, điện từ chảy trong cơ thể của loài này. Khi chúng buồn thử cho chúng nam châm xem." 
     },
     {
         "id": 375,
@@ -3745,9 +3745,9 @@
         "image": "0375_Metang.png",
         "type": "steel",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.2,
+        "weight": 202.5,
+        "introduce" : "Loài này có hai não và sẽ bắn năng lượng tâm linh cực mạnh để ngăn không cho con mồi chạy trốn." 
     },
     {
         "id": 376,
@@ -3755,9 +3755,9 @@
         "image": "0376_Metagross.png",
         "type": "steel",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.6,
+        "weight": 550.0,
+        "introduce" : "Loài này sở hữu không chỉ sức mạnh tâm linh mà còn sức khỏe phi thường. Chúng dùng bốn chân gắp con mồi và giữ bằng vuốt sắc." 
     },
     {
         "id": 377,
@@ -3765,9 +3765,9 @@
         "image": "0377_Regirock.png",
         "type": "rock",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.7,
+        "weight": 230.0,
+        "introduce" : "Regirock bị con người phong ấn từ thuở xa xưa. Theo lời kể, nếu cơ thể thần gặp thương tổn do chiến đấu, thần sẽ đi tìm loại đá thích hợp để tự chữa lành." 
     },
     {
         "id": 378,
@@ -3775,9 +3775,9 @@
         "image": "0378_Regice.png",
         "type": "ice",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.8,
+        "weight": 175.0,
+        "introduce" : "Cơ thể Regice được tạo ra từ thời kỉ băng hà, có bị lửa đốt cũng không hề tan chảy. Thần điều khiển khí lạnh -20°C." 
     },
     {
         "id": 379,
@@ -3785,9 +3785,9 @@
         "image": "0379_Regsteel.png",
         "type": "steel",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.9,
+        "weight": 205.0,
+        "introduce" : "Cơ thể dường như rỗng ruột của Registeel cứng hơn bất kì thứ kim loại nào. Không ai biết thần ăn gì để sống." 
     },
     {
         "id": 380,
@@ -3795,9 +3795,9 @@
         "image": "0380_Latias.png",
         "type": "dragon",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 1.4,
+        "weight": 40.0,
+        "introduce" : "Latias cực kì nhạy cảm với cảm xúc của con người. Nếu nhận thấy sự thù địch, thần lập tức xù lớp lông vũ và kêu rít lên để hù dọa đối phương." 
     },
     {
         "id": 381,
@@ -3805,9 +3805,9 @@
         "image": "0381_Latios.png",
         "type": "dragon",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 2.0,
+        "weight": 60.0,
+        "introduce" : "Latios có khả năng làm cho người khác nhìn thấy những hình ảnh mà thần từng thấy hoặc tưởng tượng ra trong đầu. Thần rất thông minh và hiểu được tiếng người." 
     },
     {
         "id": 382,
@@ -3815,9 +3815,9 @@
         "image": "0382_Kaioga.png",
         "type": "water",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 4.5,
+        "weight": 352.0,
+        "introduce" : "Nhờ quá trình Hồi quy Nguyên thủy và nguồn năng lượng tự nhiên tối thượng, Kaioga đã trở lại hình thái thật sự của mình. Thần triệu hồi bão tố và khiến mực nước biển dâng cao." 
     },
     {
         "id": 383,
@@ -3825,9 +3825,9 @@
         "image": "0383_Groudon.png",
         "type": "ground",
         "secondType": null,
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 3.5,
+        "weight": 950.0,
+        "introduce" : "Groudon được xem là hiện thân của đất liền. Truyền thuyết kể rằng, thần từng giao chiến liên miên với Kaioga, hòng đoạt lấy nguồn năng lượng tự nhiên." 
     },
     {
         "id": 384,
@@ -3835,9 +3835,9 @@
         "image": "0384_Rayquaza.png",
         "type": "dragon",
         "secondType": "flying",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 7.0,
+        "weight": 206.5,
+        "introduce" : "Rayquaza được cho là đã sống hàng trăm triệu năm. Truyền thuyết kể rằng, chính thần đã ra tay chấm dứt cuộc đại chiến giữa Kaioga và Groudon." 
     },
     {
         "id": 385,
@@ -3845,8 +3845,8 @@
         "image": "0385_Jirachi.png",
         "type": "steel",
         "secondType": "psychic",
-        "height": 0,
-        "weight": 0,
-        "introduce" : null 
+        "height": 0.3,
+        "weight": 1.1,
+        "introduce" : "Theo truyền thuyết, sau khi tỉnh giấc, Jirachi sẽ biến những điều ước được viết lên các mảnh giấy trên đầu nó thành sự thật. Loài Pokémon này có thể chiến đấu ngay trong lúc ngủ nếu cảm nhận được nguy hiểm." 
     }
 ]
