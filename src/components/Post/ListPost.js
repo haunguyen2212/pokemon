@@ -4,8 +4,7 @@ import Posts from "../../json/post.json";
 
 
 function ListPost() {
-    // eslint-disable-next-line no-unused-vars
-    const [listPost, setListPost] = useState(Posts);
+    const [listPost] = useState(Posts);
 
     return (
         <div className="block">

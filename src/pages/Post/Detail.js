@@ -5,13 +5,12 @@ import Posts from '../../json/post.json'
 
 function Detail(){
     const params = useParams();
-    console.log(params);
 
-    // eslint-disable-next-line no-unused-vars
-    const [blog, setBlog] = useState(Posts.find(item => item.id === parseInt(params.id)));
+    const [blog] = useState(Posts.find(item => item.id === parseInt(params.id)));
+    const [subBlog] = useState(Posts.filter(item => item.id !== parseInt(params.id)).slice(0, 5));
 
     return (
-        <Blog data={blog} />
+        <Blog blog={blog} subBlog={subBlog} />
     ); 
 }
 
