@@ -9,6 +9,7 @@ import PostPage from './pages/Post/Post';
 import LinkPage from './pages/Link';
 import ContactPage from './pages/Contact';
 import PostDetail from './pages/Post/Detail';
+import PokemonCreate from './pages/Management/Pokemon/Create';
 
 function App() {
 
@@ -25,6 +26,7 @@ function App() {
           <Route path='/link' element={<LinkPage />} />
           <Route path='/contact' element={<ContactPage />} />
           <Route path='/post/:id' element={<PostDetail />} />
+          <Route path='/management/pokemon/create' element={<PokemonCreate />} />
         </Routes>
       </div>
       <Footer />
